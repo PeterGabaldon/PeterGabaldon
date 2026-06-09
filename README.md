@@ -45,7 +45,8 @@ Curiosity is the core of it: the kid who took his toys apart now takes software 
 
 </div>
 
-**TeamViewer Kernel Driver LPE** `CVE-2024-7479 / 7481`. User-to-kernel privilege escalation: an unprivileged user could load an arbitrary, attacker-controlled kernel driver on Windows. Found and responsibly disclosed through ZDI (ZDI-24-1289 / 1290). · [PoC](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481) · [Finding TeamViewer 0days I](https://pgj11.com/posts/Finding-TeamViewer-0days-Part-1/) · [II](https://pgj11.com/posts/Finding-TeamViewer-0days-Part-2/) · [III](https://pgj11.com/posts/Finding-TeamViewer-0days-Part-3/)
+**TeamViewer Kernel Driver LPE** `CVE-2024-7479 / 7481`. User-to-kernel privilege escalation: an unprivileged user could load an arbitrary, attacker-controlled kernel driver on Windows. Found and responsibly disclosed through ZDI (ZDI-24-1289 / 1290).
+> [PoC](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481) · [Finding TeamViewer 0days I](https://pgj11.com/posts/Finding-TeamViewer-0days-Part-1/) · [II](https://pgj11.com/posts/Finding-TeamViewer-0days-Part-2/) · [III](https://pgj11.com/posts/Finding-TeamViewer-0days-Part-3/)
 
 **FortiOS Symlink Persistence Bypass** `CVE-2025-68686`. A symlink-based persistence patch bypass in FortiOS that lets an attacker keep access across the affected configuration boundary, with a checker tool. · [ITRESIT Labs](https://labs.itresit.es/2026/02/11/fortigate-symlink-persistence-method-patch-bypass-cve-2025-68686/) · [pgj11 write-up](https://pgj11.com/posts/FortiGate-Symlink-Attack/) · [Checker tool](https://github.com/I3IT/Fortigate.Symlink.Persistence.Checker)
 
