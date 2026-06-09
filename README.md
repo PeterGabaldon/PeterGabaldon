@@ -14,8 +14,8 @@
 
 ### `Offensive security · Vulnerability research · Malware development`
 
-[![Website](https://img.shields.io/badge/Website-pgj11.com-5be39a?style=flat-square&logo=hackthebox&logoColor=06140c&labelColor=11161a)](https://pgj11.com)
-[![ITRESIT Labs](https://img.shields.io/badge/Research_Blog-ITRESIT_Labs-e0843c?style=flat-square&logo=ghost&logoColor=white&labelColor=11161a)](https://labs.itresit.es)
+[![Blog](https://img.shields.io/badge/Website-pgj11.com-5be39a?style=flat-square&logo=hackthebox&logoColor=06140c&labelColor=11161a)](https://pgj11.com)
+[![Labs @ ITRESIT](https://img.shields.io/badge/Research_Blog-ITRESIT_Labs-e0843c?style=flat-square&logo=ghost&logoColor=white&labelColor=11161a)](https://labs.itresit.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--gabaldon--julia-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=11161a)](https://www.linkedin.com/in/pedro-gabaldon-julia/)
 [![X](https://img.shields.io/badge/X-@PedroGabaldon-e9eee9?style=flat-square&logo=x&logoColor=white&labelColor=11161a)](https://x.com/PedroGabaldon)
 [![Exploit-DB](https://img.shields.io/badge/Exploit--DB-author_12128-c0392b?style=flat-square&logo=exploit-db&logoColor=white&labelColor=11161a)](https://www.exploit-db.com/?author=12128)
