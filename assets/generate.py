@@ -79,25 +79,22 @@ def save_preview(grid):
 # ---- info panel content ---------------------------------------------------
 HEADER = ("peter", "㉿", "PeterGabaldon")
 INFO = [
-    ("OS",        "Kali Linux · Windows · RHEL"),
     ("Host",      "ITRESIT — Murcia, Spain"),
-    ("Role",      "Cybersecurity Coordinator (ex-Engineer)"),
+    ("Role",      "Cybersecurity Coordinator & Engineer"),
     ("Kernel",    "Offensive Security · Vulnerability Research"),
     ("Uptime",    "5 yrs professional · 10+ self-taught"),
     ("Education", "BSc Computer Engineering — Univ. of Murcia"),
-    ("Shell",     "zsh · pwsh"),
     None,
     ("Code",      "C · C++ · C# · Java · Python · PHP · Bash · SQL"),
     ("Reversing", "IDA Pro · Ghidra · WinDbg · gdb · OllyDbg"),
     ("Offense",   "Burp Suite · Impacket · Malware & Exploit Dev"),
-    ("Defense",   "CrowdStrike · Azure Sentinel · Defender · M365"),
+    ("Defense",   "CrowdStrike · Azure Sentinel · Defender"),
     ("Network",   "Fortinet · FortiGate hardening · Secure design"),
     ("Certs",     "OSED · OSEP · OSCP · CrowdStrike CFA · NSE 1-3"),
     None,
-    ("CVEs",      "16 published · ZDI · Exploit-DB · Impacket"),
-    ("Web",       "https://pgj11.com"),
-    ("Labs",      "https://labs.itresit.es"),
-    ("LinkedIn",  "in/pedro-gabaldon-julia"),
+    ("Blog",            "https://pgj11.com"),
+    ("Labs @ ITRESIT",  "https://labs.itresit.es"),
+    ("LinkedIn",        "in/pedro-gabaldon-julia"),
 ]
 PALETTE = [RED, ORANGE, YELLOW, GREEN, "#3aa0ff", "#b06bff", "#3ad6c8", INK]
 
@@ -113,15 +110,15 @@ def build_svg(grid):
     art_x    = pad
     art_top  = 70
     art_w    = cols * art_cw
-    info_x   = art_x + art_w + 40
+    info_x   = art_x + art_w + 56          # clear gap so art can't touch the panel
     info_fs  = 14
     info_lh  = 22.5
     info_top = 96
-    key_w    = 96
+    key_w    = 140                         # wide enough for "Labs @ ITRESIT:"
 
     art_h = art_top + rows*art_lh
     info_h = info_top + (len(INFO)+4)*info_lh
-    width  = int(info_x + 560)
+    width  = int(info_x + 600)
     height = int(max(art_h, info_h) + pad)
 
     out = []
@@ -136,35 +133,20 @@ def build_svg(grid):
     out.append(f'<text x="{width/2}" y="24.5" fill="{FAINT}" font-size="12.5" text-anchor="middle">'
                f'zsh — ssh peter@PeterGabaldon</text>')
 
-    # ascii art (one <text> per row; per-char tspans, monospace flow)
-    out.append(f'<text xml:space="preserve" font-size="{art_fs}" '
-               f'style="white-space:pre" x="{art_x}" y="{art_top}">')
+    # ascii art — each glyph is pinned to an explicit (x, y) on a fixed grid,
+    # so column alignment never depends on the renderer's font advance width.
+    # That is what keeps the portrait inside art_w and stops it drifting into
+    # the info panel. Space cells are simply skipped (they show the bg).
+    out.append(f'<g font-size="{art_fs}" text-anchor="middle">')
+    half = art_cw / 2
     for y, line in enumerate(grid):
-        out.append(f'<tspan x="{art_x}" dy="{art_lh if y else 0}">')
-        # collapse runs of identical colour into one tspan to shrink the file;
-        # spaces are emitted as plain (invisible) text that just advances.
-        run, rc = "", None
-        def flush():
-            nonlocal run, rc
-            if run and rc is not None:
-                out.append(f'<tspan fill="rgb{rc}">{esc(run)}</tspan>')
-            elif run:
-                out.append(esc(run))
-            run, rc = "", rc
-        for chs, col in line:
+        ry = art_top + y * art_lh
+        for x, (chs, col) in enumerate(line):
             if chs == " ":
-                if rc is not None:
-                    flush()
-                    rc = None
-                run += " "
-            else:
-                if col != rc:
-                    flush()
-                    rc = col
-                run += chs
-        flush()
-        out.append('</tspan>')
-    out.append('</text>')
+                continue
+            cx = art_x + x * art_cw + half
+            out.append(f'<text x="{cx:.1f}" y="{ry:.1f}" fill="rgb{col}">{esc(chs)}</text>')
+    out.append('</g>')
 
     # info panel
     iy = info_top

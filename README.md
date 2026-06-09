@@ -41,7 +41,7 @@ Curiosity at the core — the kid who took his toys apart, now taking software a
 
 <div align="center">
 
-### `Published CVEs`  ·  16 and counting
+### `Published CVEs`
 
 [![CVE-2026-8077](https://img.shields.io/badge/CVE--2026--8077-e0843c?style=flat-square&logo=cve&logoColor=white)](https://www.cve.org/CVERecord?id=CVE-2026-8077)
 [![CVE-2026-4482](https://img.shields.io/badge/CVE--2026--4482-e0843c?style=flat-square&logo=cve&logoColor=white)](https://www.cve.org/CVERecord?id=CVE-2026-4482)
