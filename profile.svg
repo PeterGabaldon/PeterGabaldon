@@ -1,0 +1,1553 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="956" height="639" viewBox="0 0 956 639" font-family="'JetBrains Mono','Cascadia Code','Fira Code',Consolas,Menlo,monospace">
+<rect x="0" y="0" width="956" height="639" rx="14" fill="#0a0d0b" stroke="rgba(255,255,255,.12)"/>
+<rect x="0" y="0" width="956" height="40" rx="14" fill="#0e1210"/>
+<rect x="0" y="26" width="956" height="14" fill="#0e1210"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+<circle cx="44" cy="20" r="6" fill="#febc2e"/>
+<circle cx="64" cy="20" r="6" fill="#28c840"/>
+<text x="478.0" y="24.5" fill="#5d6a61" font-size="12.5" text-anchor="middle">zsh — ssh peter@PeterGabaldon</text>
+<text xml:space="preserve" font-size="12.5" style="white-space:pre" x="26" y="70">
+<tspan x="26" dy="0">
+<tspan fill="rgb(168, 169, 154)">Q</tspan>
+<tspan fill="rgb(151, 165, 164)">C</tspan>
+<tspan fill="rgb(170, 181, 168)">O</tspan>
+<tspan fill="rgb(179, 191, 168)">w</tspan>
+<tspan fill="rgb(170, 182, 168)">O</tspan>
+<tspan fill="rgb(171, 177, 163)">0</tspan>
+<tspan fill="rgb(208, 202, 169)">d</tspan>
+<tspan fill="rgb(194, 189, 165)">w</tspan>
+<tspan fill="rgb(202, 190, 169)">q</tspan>
+<tspan fill="rgb(174, 171, 165)">Q</tspan>
+<tspan fill="rgb(150, 160, 167)">J</tspan>
+<tspan fill="rgb(166, 176, 174)">0</tspan>
+<tspan fill="rgb(162, 175, 173)">0</tspan>
+<tspan fill="rgb(163, 175, 174)">0</tspan>
+<tspan fill="rgb(163, 174, 172)">0</tspan>
+<tspan fill="rgb(160, 174, 167)">Q</tspan>
+<tspan fill="rgb(172, 187, 176)">m</tspan>
+<tspan fill="rgb(181, 190, 177)">w</tspan>
+<tspan fill="rgb(164, 161, 160)">C</tspan>
+<tspan fill="rgb(154, 139, 138)">z</tspan>
+<tspan fill="rgb(180, 160, 146)">C</tspan>
+<tspan fill="rgb(156, 137, 127)">c</tspan>
+<tspan fill="rgb(152, 131, 123)">v</tspan>
+<tspan fill="rgb(174, 156, 135)">J</tspan>
+<tspan fill="rgb(165, 156, 116)">U</tspan>
+<tspan fill="rgb(147, 147, 107)">z</tspan>
+<tspan fill="rgb(149, 151, 99)">X</tspan>
+<tspan fill="rgb(170, 168, 116)">L</tspan>
+<tspan fill="rgb(182, 177, 165)">O</tspan>
+<tspan fill="rgb(168, 168, 164)">Q</tspan>
+<tspan fill="rgb(165, 169, 173)">Q</tspan>
+<tspan fill="rgb(165, 168, 176)">Q</tspan>
+<tspan fill="rgb(156, 163, 166)">C</tspan>
+<tspan fill="rgb(152, 161, 165)">J</tspan>
+<tspan fill="rgb(168, 176, 170)">0</tspan>
+<tspan fill="rgb(161, 171, 166)">Q</tspan>
+<tspan fill="rgb(144, 150, 160)">Y</tspan>
+<tspan fill="rgb(159, 169, 171)">L</tspan>
+<tspan fill="rgb(162, 176, 169)">0</tspan>
+<tspan fill="rgb(168, 176, 168)">0</tspan>
+<tspan fill="rgb(196, 197, 163)">p</tspan>
+<tspan fill="rgb(196, 197, 134)">q</tspan>
+<tspan fill="rgb(185, 191, 118)">m</tspan>
+<tspan fill="rgb(176, 185, 114)">O</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(168, 172, 156)">Q</tspan>
+<tspan fill="rgb(148, 166, 166)">C</tspan>
+<tspan fill="rgb(168, 183, 171)">Z</tspan>
+<tspan fill="rgb(176, 190, 168)">m</tspan>
+<tspan fill="rgb(172, 185, 168)">Z</tspan>
+<tspan fill="rgb(205, 205, 169)">b</tspan>
+<tspan fill="rgb(203, 197, 167)">p</tspan>
+<tspan fill="rgb(188, 186, 166)">m</tspan>
+<tspan fill="rgb(182, 180, 163)">Z</tspan>
+<tspan fill="rgb(187, 183, 164)">Z</tspan>
+<tspan fill="rgb(186, 186, 169)">m</tspan>
+<tspan fill="rgb(184, 188, 168)">m</tspan>
+<tspan fill="rgb(189, 194, 174)">q</tspan>
+<tspan fill="rgb(183, 188, 169)">m</tspan>
+<tspan fill="rgb(184, 191, 169)">w</tspan>
+<tspan fill="rgb(191, 196, 171)">q</tspan>
+<tspan fill="rgb(169, 158, 140)">J</tspan>
+<tspan fill="rgb(120, 98, 90)">\</tspan>
+<tspan fill="rgb(75, 48, 45)">+</tspan>
+<tspan fill="rgb(70, 39, 33)">l</tspan>
+<tspan fill="rgb(70, 39, 36)">l</tspan>
+<tspan fill="rgb(70, 33, 29)">:</tspan>
+<tspan fill="rgb(70, 40, 34)">l</tspan>
+<tspan fill="rgb(70, 38, 32)">l</tspan>
+<tspan fill="rgb(78, 54, 45)">_</tspan>
+<tspan fill="rgb(100, 79, 65)">{</tspan>
+<tspan fill="rgb(122, 110, 80)">f</tspan>
+<tspan fill="rgb(175, 170, 143)">Q</tspan>
+<tspan fill="rgb(153, 153, 134)">Y</tspan>
+<tspan fill="rgb(158, 162, 127)">J</tspan>
+<tspan fill="rgb(166, 170, 154)">Q</tspan>
+<tspan fill="rgb(157, 159, 134)">J</tspan>
+<tspan fill="rgb(153, 159, 163)">J</tspan>
+<tspan fill="rgb(174, 182, 173)">Z</tspan>
+<tspan fill="rgb(191, 196, 175)">q</tspan>
+<tspan fill="rgb(183, 189, 170)">m</tspan>
+<tspan fill="rgb(179, 187, 169)">m</tspan>
+<tspan fill="rgb(174, 187, 169)">m</tspan>
+<tspan fill="rgb(190, 200, 156)">p</tspan>
+<tspan fill="rgb(203, 208, 140)">b</tspan>
+<tspan fill="rgb(212, 214, 145)">k</tspan>
+<tspan fill="rgb(173, 181, 98)">0</tspan>
+<tspan fill="rgb(162, 165, 93)">J</tspan>
+<tspan fill="rgb(153, 159, 77)">Y</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(184, 185, 151)">Z</tspan>
+<tspan fill="rgb(180, 186, 162)">m</tspan>
+<tspan fill="rgb(177, 187, 168)">m</tspan>
+<tspan fill="rgb(170, 183, 169)">Z</tspan>
+<tspan fill="rgb(187, 193, 171)">w</tspan>
+<tspan fill="rgb(187, 190, 171)">w</tspan>
+<tspan fill="rgb(163, 171, 166)">Q</tspan>
+<tspan fill="rgb(164, 171, 166)">Q</tspan>
+<tspan fill="rgb(172, 173, 166)">0</tspan>
+<tspan fill="rgb(185, 186, 169)">m</tspan>
+<tspan fill="rgb(184, 187, 167)">m</tspan>
+<tspan fill="rgb(182, 187, 169)">mm</tspan>
+<tspan fill="rgb(187, 190, 168)">w</tspan>
+<tspan fill="rgb(202, 204, 175)">d</tspan>
+<tspan fill="rgb(171, 162, 143)">C</tspan>
+<tspan fill="rgb(70, 38, 30)">:</tspan>
+<tspan fill="rgb(70, 23, 21)">^</tspan>
+<tspan fill="rgb(70, 21, 19)">`</tspan>
+<tspan fill="rgb(70, 34, 29)">l</tspan>
+<tspan fill="rgb(101, 52, 47)">-</tspan>
+<tspan fill="rgb(118, 63, 58)">[</tspan>
+<tspan fill="rgb(140, 77, 68)">)</tspan>
+<tspan fill="rgb(149, 80, 73)">(</tspan>
+<tspan fill="rgb(170, 96, 87)">f</tspan>
+<tspan fill="rgb(162, 89, 81)">/</tspan>
+<tspan fill="rgb(70, 30, 30)">;</tspan>
+<tspan fill="rgb(130, 122, 104)">x</tspan>
+<tspan fill="rgb(174, 175, 148)">0</tspan>
+<tspan fill="rgb(167, 169, 147)">L</tspan>
+<tspan fill="rgb(157, 162, 130)">J</tspan>
+<tspan fill="rgb(157, 160, 130)">J</tspan>
+<tspan fill="rgb(167, 171, 154)">Q</tspan>
+<tspan fill="rgb(174, 183, 171)">Z</tspan>
+<tspan fill="rgb(177, 186, 172)">m</tspan>
+<tspan fill="rgb(165, 174, 166)">0</tspan>
+<tspan fill="rgb(186, 193, 173)">w</tspan>
+<tspan fill="rgb(205, 209, 145)">b</tspan>
+<tspan fill="rgb(191, 192, 114)">m</tspan>
+<tspan fill="rgb(185, 190, 114)">m</tspan>
+<tspan fill="rgb(158, 165, 84)">J</tspan>
+<tspan fill="rgb(125, 131, 71)">x</tspan>
+<tspan fill="rgb(141, 143, 81)">c</tspan>
+<tspan fill="rgb(145, 149, 90)">z</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(212, 189, 106)">w</tspan>
+<tspan fill="rgb(223, 199, 114)">d</tspan>
+<tspan fill="rgb(215, 198, 131)">p</tspan>
+<tspan fill="rgb(192, 191, 156)">w</tspan>
+<tspan fill="rgb(187, 193, 172)">w</tspan>
+<tspan fill="rgb(176, 182, 170)">Z</tspan>
+<tspan fill="rgb(165, 174, 172)">0</tspan>
+<tspan fill="rgb(155, 165, 168)">C</tspan>
+<tspan fill="rgb(156, 166, 169)">L</tspan>
+<tspan fill="rgb(159, 167, 167)">L</tspan>
+<tspan fill="rgb(157, 166, 169)">L</tspan>
+<tspan fill="rgb(164, 174, 171)">0</tspan>
+<tspan fill="rgb(169, 177, 170)">0</tspan>
+<tspan fill="rgb(175, 180, 172)">O</tspan>
+<tspan fill="rgb(184, 191, 179)">w</tspan>
+<tspan fill="rgb(107, 103, 96)">/</tspan>
+<tspan fill="rgb(70, 31, 23)">`</tspan>
+<tspan fill="rgb(100, 56, 47)">?</tspan>
+<tspan fill="rgb(135, 73, 58)">1</tspan>
+<tspan fill="rgb(183, 99, 83)">j</tspan>
+<tspan fill="rgb(231, 128, 110)">Y</tspan>
+<tspan fill="rgb(249, 142, 126)">C</tspan>
+<tspan fill="rgb(255, 150, 132)">Q</tspan>
+<tspan fill="rgb(255, 171, 153)">w</tspan>
+<tspan fill="rgb(255, 177, 159)">q</tspan>
+<tspan fill="rgb(255, 166, 144)">m</tspan>
+<tspan fill="rgb(175, 99, 89)">j</tspan>
+<tspan fill="rgb(70, 51, 39)">~</tspan>
+<tspan fill="rgb(172, 172, 122)">Q</tspan>
+<tspan fill="rgb(173, 176, 145)">0</tspan>
+<tspan fill="rgb(184, 183, 143)">Z</tspan>
+<tspan fill="rgb(174, 176, 119)">0</tspan>
+<tspan fill="rgb(170, 174, 119)">Q</tspan>
+<tspan fill="rgb(171, 180, 142)">O</tspan>
+<tspan fill="rgb(169, 180, 168)">O</tspan>
+<tspan fill="rgb(154, 165, 166)">C</tspan>
+<tspan fill="rgb(164, 178, 165)">0</tspan>
+<tspan fill="rgb(188, 194, 153)">w</tspan>
+<tspan fill="rgb(175, 182, 124)">O</tspan>
+<tspan fill="rgb(170, 177, 130)">0</tspan>
+<tspan fill="rgb(121, 133, 62)">x</tspan>
+<tspan fill="rgb(133, 141, 79)">v</tspan>
+<tspan fill="rgb(113, 120, 58)">f</tspan>
+<tspan fill="rgb(121, 124, 67)">r</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(201, 194, 134)">q</tspan>
+<tspan fill="rgb(202, 192, 133)">w</tspan>
+<tspan fill="rgb(194, 187, 149)">m</tspan>
+<tspan fill="rgb(187, 189, 166)">w</tspan>
+<tspan fill="rgb(180, 188, 173)">m</tspan>
+<tspan fill="rgb(163, 171, 165)">Q</tspan>
+<tspan fill="rgb(157, 169, 167)">L</tspan>
+<tspan fill="rgb(138, 153, 163)">Y</tspan>
+<tspan fill="rgb(143, 154, 167)">U</tspan>
+<tspan fill="rgb(152, 164, 169)">C</tspan>
+<tspan fill="rgb(154, 166, 168)">C</tspan>
+<tspan fill="rgb(146, 159, 166)">J</tspan>
+<tspan fill="rgb(168, 180, 167)">O</tspan>
+<tspan fill="rgb(161, 172, 150)">Q</tspan>
+<tspan fill="rgb(184, 192, 173)">w</tspan>
+<tspan fill="rgb(89, 94, 85)">(</tspan>
+<tspan fill="rgb(70, 22, 14)">&#x27;</tspan>
+<tspan fill="rgb(89, 54, 41)">_</tspan>
+<tspan fill="rgb(106, 57, 48)">?</tspan>
+<tspan fill="rgb(110, 59, 48)">]</tspan>
+<tspan fill="rgb(132, 71, 58)">{</tspan>
+<tspan fill="rgb(167, 89, 75)">/</tspan>
+<tspan fill="rgb(183, 102, 90)">r</tspan>
+<tspan fill="rgb(150, 85, 77)">|</tspan>
+<tspan fill="rgb(144, 86, 80)">|</tspan>
+<tspan fill="rgb(184, 111, 98)">x</tspan>
+<tspan fill="rgb(186, 109, 95)">x</tspan>
+<tspan fill="rgb(76, 50, 43)">+</tspan>
+<tspan fill="rgb(157, 149, 101)">X</tspan>
+<tspan fill="rgb(169, 176, 101)">Q</tspan>
+<tspan fill="rgb(169, 174, 106)">Q</tspan>
+<tspan fill="rgb(183, 185, 130)">Z</tspan>
+<tspan fill="rgb(164, 166, 108)">C</tspan>
+<tspan fill="rgb(162, 168, 123)">C</tspan>
+<tspan fill="rgb(150, 162, 163)">J</tspan>
+<tspan fill="rgb(146, 158, 160)">U</tspan>
+<tspan fill="rgb(173, 183, 163)">Z</tspan>
+<tspan fill="rgb(179, 189, 140)">m</tspan>
+<tspan fill="rgb(153, 165, 97)">J</tspan>
+<tspan fill="rgb(136, 146, 88)">c</tspan>
+<tspan fill="rgb(130, 139, 87)">v</tspan>
+<tspan fill="rgb(134, 142, 96)">v</tspan>
+<tspan fill="rgb(102, 111, 50)">/</tspan>
+<tspan fill="rgb(103, 110, 39)">/</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(182, 182, 142)">Z</tspan>
+<tspan fill="rgb(176, 178, 146)">O</tspan>
+<tspan fill="rgb(167, 179, 165)">O</tspan>
+<tspan fill="rgb(161, 174, 168)">Q</tspan>
+<tspan fill="rgb(165, 176, 169)">0</tspan>
+<tspan fill="rgb(174, 182, 165)">Z</tspan>
+<tspan fill="rgb(161, 172, 159)">Q</tspan>
+<tspan fill="rgb(158, 171, 165)">Q</tspan>
+<tspan fill="rgb(167, 176, 162)">0</tspan>
+<tspan fill="rgb(163, 178, 155)">0</tspan>
+<tspan fill="rgb(155, 170, 154)">L</tspan>
+<tspan fill="rgb(139, 149, 157)">X</tspan>
+<tspan fill="rgb(162, 171, 151)">Q</tspan>
+<tspan fill="rgb(195, 208, 132)">d</tspan>
+<tspan fill="rgb(178, 175, 128)">0</tspan>
+<tspan fill="rgb(92, 56, 50)">-</tspan>
+<tspan fill="rgb(70, 42, 30)">i</tspan>
+<tspan fill="rgb(85, 54, 42)">_</tspan>
+<tspan fill="rgb(70, 36, 27)">I</tspan>
+<tspan fill="rgb(70, 35, 30)">l</tspan>
+<tspan fill="rgb(70, 34, 29)">:</tspan>
+<tspan fill="rgb(114, 54, 48)">?</tspan>
+<tspan fill="rgb(216, 128, 120)">X</tspan>
+<tspan fill="rgb(137, 76, 68)">)</tspan>
+<tspan fill="rgb(131, 71, 64)">{</tspan>
+<tspan fill="rgb(197, 116, 102)">u</tspan>
+<tspan fill="rgb(223, 136, 115)">U</tspan>
+<tspan fill="rgb(191, 104, 90)">r</tspan>
+<tspan fill="rgb(233, 115, 103)">c</tspan>
+<tspan fill="rgb(171, 134, 85)">c</tspan>
+<tspan fill="rgb(160, 167, 112)">C</tspan>
+<tspan fill="rgb(157, 158, 115)">U</tspan>
+<tspan fill="rgb(164, 164, 113)">C</tspan>
+<tspan fill="rgb(163, 170, 140)">L</tspan>
+<tspan fill="rgb(163, 173, 153)">Q</tspan>
+<tspan fill="rgb(157, 168, 152)">L</tspan>
+<tspan fill="rgb(187, 194, 170)">q</tspan>
+<tspan fill="rgb(168, 176, 134)">Q</tspan>
+<tspan fill="rgb(132, 142, 84)">v</tspan>
+<tspan fill="rgb(147, 153, 111)">Y</tspan>
+<tspan fill="rgb(116, 123, 82)">r</tspan>
+<tspan fill="rgb(118, 127, 92)">x</tspan>
+<tspan fill="rgb(141, 151, 114)">X</tspan>
+<tspan fill="rgb(148, 153, 97)">X</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(180, 177, 140)">0</tspan>
+<tspan fill="rgb(186, 183, 151)">Z</tspan>
+<tspan fill="rgb(188, 197, 163)">q</tspan>
+<tspan fill="rgb(184, 196, 163)">q</tspan>
+<tspan fill="rgb(182, 194, 161)">w</tspan>
+<tspan fill="rgb(190, 201, 139)">p</tspan>
+<tspan fill="rgb(194, 202, 145)">p</tspan>
+<tspan fill="rgb(204, 211, 135)">b</tspan>
+<tspan fill="rgb(208, 217, 131)">k</tspan>
+<tspan fill="rgb(200, 209, 134)">d</tspan>
+<tspan fill="rgb(190, 202, 127)">q</tspan>
+<tspan fill="rgb(183, 198, 131)">w</tspan>
+<tspan fill="rgb(192, 202, 137)">p</tspan>
+<tspan fill="rgb(187, 201, 133)">q</tspan>
+<tspan fill="rgb(199, 203, 131)">p</tspan>
+<tspan fill="rgb(104, 47, 31)">_</tspan>
+<tspan fill="rgb(89, 39, 27)">i</tspan>
+<tspan fill="rgb(113, 70, 51)">}</tspan>
+<tspan fill="rgb(140, 80, 63)">(</tspan>
+<tspan fill="rgb(156, 84, 70)">|</tspan>
+<tspan fill="rgb(108, 57, 46)">?</tspan>
+<tspan fill="rgb(104, 49, 42)">_</tspan>
+<tspan fill="rgb(213, 118, 108)">c</tspan>
+<tspan fill="rgb(234, 133, 117)">U</tspan>
+<tspan fill="rgb(248, 144, 123)">L</tspan>
+<tspan fill="rgb(255, 159, 138)">O</tspan>
+<tspan fill="rgb(250, 155, 133)">0</tspan>
+<tspan fill="rgb(224, 121, 108)">z</tspan>
+<tspan fill="rgb(225, 131, 116)">Y</tspan>
+<tspan fill="rgb(163, 156, 121)">U</tspan>
+<tspan fill="rgb(150, 156, 117)">Y</tspan>
+<tspan fill="rgb(158, 164, 122)">J</tspan>
+<tspan fill="rgb(162, 169, 135)">L</tspan>
+<tspan fill="rgb(163, 170, 140)">L</tspan>
+<tspan fill="rgb(161, 165, 124)">C</tspan>
+<tspan fill="rgb(173, 175, 139)">0</tspan>
+<tspan fill="rgb(164, 172, 159)">Q</tspan>
+<tspan fill="rgb(163, 176, 168)">0</tspan>
+<tspan fill="rgb(158, 172, 135)">L</tspan>
+<tspan fill="rgb(136, 146, 105)">z</tspan>
+<tspan fill="rgb(129, 140, 112)">v</tspan>
+<tspan fill="rgb(137, 151, 121)">X</tspan>
+<tspan fill="rgb(177, 191, 163)">m</tspan>
+<tspan fill="rgb(205, 216, 178)">h</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(197, 195, 120)">w</tspan>
+<tspan fill="rgb(201, 201, 125)">p</tspan>
+<tspan fill="rgb(198, 211, 129)">b</tspan>
+<tspan fill="rgb(193, 206, 126)">p</tspan>
+<tspan fill="rgb(203, 214, 124)">b</tspan>
+<tspan fill="rgb(189, 198, 109)">w</tspan>
+<tspan fill="rgb(191, 201, 125)">q</tspan>
+<tspan fill="rgb(180, 192, 127)">m</tspan>
+<tspan fill="rgb(183, 197, 136)">w</tspan>
+<tspan fill="rgb(183, 196, 135)">w</tspan>
+<tspan fill="rgb(185, 196, 114)">w</tspan>
+<tspan fill="rgb(185, 198, 114)">w</tspan>
+<tspan fill="rgb(184, 191, 122)">m</tspan>
+<tspan fill="rgb(178, 185, 117)">O</tspan>
+<tspan fill="rgb(203, 207, 137)">d</tspan>
+<tspan fill="rgb(180, 180, 140)">O</tspan>
+<tspan fill="rgb(107, 87, 71)">)</tspan>
+<tspan fill="rgb(70, 35, 23)">l</tspan>
+<tspan fill="rgb(106, 59, 43)">?</tspan>
+<tspan fill="rgb(121, 64, 49)">[</tspan>
+<tspan fill="rgb(90, 44, 33)">~</tspan>
+<tspan fill="rgb(78, 33, 29)">!</tspan>
+<tspan fill="rgb(157, 71, 74)">)</tspan>
+<tspan fill="rgb(202, 108, 103)">n</tspan>
+<tspan fill="rgb(220, 128, 108)">X</tspan>
+<tspan fill="rgb(244, 154, 126)">Q</tspan>
+<tspan fill="rgb(205, 121, 104)">c</tspan>
+<tspan fill="rgb(174, 136, 93)">z</tspan>
+<tspan fill="rgb(190, 193, 114)">w</tspan>
+<tspan fill="rgb(160, 170, 131)">L</tspan>
+<tspan fill="rgb(159, 167, 141)">C</tspan>
+<tspan fill="rgb(174, 181, 144)">O</tspan>
+<tspan fill="rgb(178, 182, 122)">O</tspan>
+<tspan fill="rgb(177, 178, 124)">0</tspan>
+<tspan fill="rgb(180, 179, 136)">O</tspan>
+<tspan fill="rgb(174, 173, 150)">0</tspan>
+<tspan fill="rgb(142, 158, 163)">U</tspan>
+<tspan fill="rgb(144, 161, 165)">J</tspan>
+<tspan fill="rgb(134, 148, 159)">X</tspan>
+<tspan fill="rgb(163, 180, 179)">O</tspan>
+<tspan fill="rgb(149, 167, 170)">C</tspan>
+<tspan fill="rgb(168, 185, 181)">Z</tspan>
+<tspan fill="rgb(190, 201, 176)">p</tspan>
+<tspan fill="rgb(178, 187, 115)">Z</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(179, 195, 144)">w</tspan>
+<tspan fill="rgb(194, 209, 141)">d</tspan>
+<tspan fill="rgb(174, 188, 129)">Z</tspan>
+<tspan fill="rgb(172, 187, 112)">O</tspan>
+<tspan fill="rgb(178, 188, 119)">Z</tspan>
+<tspan fill="rgb(175, 188, 117)">Z</tspan>
+<tspan fill="rgb(174, 187, 121)">Z</tspan>
+<tspan fill="rgb(171, 183, 115)">O</tspan>
+<tspan fill="rgb(187, 199, 113)">w</tspan>
+<tspan fill="rgb(179, 189, 126)">Z</tspan>
+<tspan fill="rgb(182, 191, 125)">m</tspan>
+<tspan fill="rgb(172, 183, 104)">0</tspan>
+<tspan fill="rgb(171, 179, 112)">0</tspan>
+<tspan fill="rgb(177, 184, 121)">O</tspan>
+<tspan fill="rgb(177, 185, 122)">O</tspan>
+<tspan fill="rgb(182, 197, 117)">w</tspan>
+<tspan fill="rgb(190, 204, 138)">p</tspan>
+<tspan fill="rgb(78, 63, 50)">?</tspan>
+<tspan fill="rgb(70, 28, 18)">:</tspan>
+<tspan fill="rgb(82, 45, 29)">~</tspan>
+<tspan fill="rgb(86, 43, 30)">~</tspan>
+<tspan fill="rgb(105, 49, 41)">_</tspan>
+<tspan fill="rgb(180, 89, 86)">t</tspan>
+<tspan fill="rgb(237, 137, 123)">J</tspan>
+<tspan fill="rgb(241, 147, 123)">L</tspan>
+<tspan fill="rgb(203, 128, 105)">z</tspan>
+<tspan fill="rgb(148, 93, 73)">/</tspan>
+<tspan fill="rgb(174, 165, 112)">C</tspan>
+<tspan fill="rgb(153, 154, 90)">Y</tspan>
+<tspan fill="rgb(157, 157, 109)">U</tspan>
+<tspan fill="rgb(150, 157, 106)">Y</tspan>
+<tspan fill="rgb(161, 165, 100)">J</tspan>
+<tspan fill="rgb(172, 174, 99)">Q</tspan>
+<tspan fill="rgb(179, 180, 105)">0</tspan>
+<tspan fill="rgb(174, 178, 140)">0</tspan>
+<tspan fill="rgb(173, 179, 157)">O</tspan>
+<tspan fill="rgb(161, 173, 162)">Q</tspan>
+<tspan fill="rgb(124, 141, 155)">c</tspan>
+<tspan fill="rgb(145, 161, 163)">J</tspan>
+<tspan fill="rgb(146, 162, 158)">J</tspan>
+<tspan fill="rgb(140, 157, 157)">U</tspan>
+<tspan fill="rgb(132, 152, 159)">X</tspan>
+<tspan fill="rgb(178, 190, 153)">m</tspan>
+<tspan fill="rgb(211, 209, 123)">b</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(181, 198, 133)">w</tspan>
+<tspan fill="rgb(180, 197, 131)">w</tspan>
+<tspan fill="rgb(156, 169, 135)">L</tspan>
+<tspan fill="rgb(143, 156, 134)">Y</tspan>
+<tspan fill="rgb(160, 173, 132)">L</tspan>
+<tspan fill="rgb(172, 184, 116)">O</tspan>
+<tspan fill="rgb(179, 193, 115)">m</tspan>
+<tspan fill="rgb(166, 179, 107)">Q</tspan>
+<tspan fill="rgb(167, 180, 106)">0</tspan>
+<tspan fill="rgb(173, 185, 112)">O</tspan>
+<tspan fill="rgb(182, 196, 128)">w</tspan>
+<tspan fill="rgb(167, 181, 121)">0</tspan>
+<tspan fill="rgb(164, 177, 113)">Q</tspan>
+<tspan fill="rgb(175, 189, 123)">Z</tspan>
+<tspan fill="rgb(166, 181, 118)">0</tspan>
+<tspan fill="rgb(174, 188, 117)">Z</tspan>
+<tspan fill="rgb(187, 202, 122)">q</tspan>
+<tspan fill="rgb(160, 169, 121)">C</tspan>
+<tspan fill="rgb(70, 46, 27)">:</tspan>
+<tspan fill="rgb(70, 30, 14)">&quot;</tspan>
+<tspan fill="rgb(70, 33, 20)">;</tspan>
+<tspan fill="rgb(70, 35, 21)">I</tspan>
+<tspan fill="rgb(92, 50, 37)">_</tspan>
+<tspan fill="rgb(126, 73, 58)">{</tspan>
+<tspan fill="rgb(143, 90, 72)">\</tspan>
+<tspan fill="rgb(157, 98, 84)">t</tspan>
+<tspan fill="rgb(209, 132, 112)">X</tspan>
+<tspan fill="rgb(190, 169, 128)">Q</tspan>
+<tspan fill="rgb(146, 149, 109)">X</tspan>
+<tspan fill="rgb(145, 147, 94)">z</tspan>
+<tspan fill="rgb(141, 142, 83)">c</tspan>
+<tspan fill="rgb(148, 148, 87)">z</tspan>
+<tspan fill="rgb(150, 155, 117)">Y</tspan>
+<tspan fill="rgb(145, 151, 116)">X</tspan>
+<tspan fill="rgb(151, 155, 107)">Y</tspan>
+<tspan fill="rgb(178, 185, 144)">Z</tspan>
+<tspan fill="rgb(167, 176, 150)">0</tspan>
+<tspan fill="rgb(163, 168, 145)">L</tspan>
+<tspan fill="rgb(143, 159, 156)">U</tspan>
+<tspan fill="rgb(141, 159, 161)">U</tspan>
+<tspan fill="rgb(141, 161, 160)">J</tspan>
+<tspan fill="rgb(155, 168, 165)">L</tspan>
+<tspan fill="rgb(204, 201, 122)">p</tspan>
+<tspan fill="rgb(188, 186, 89)">Z</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(191, 204, 138)">p</tspan>
+<tspan fill="rgb(179, 192, 143)">m</tspan>
+<tspan fill="rgb(160, 172, 149)">Q</tspan>
+<tspan fill="rgb(123, 136, 139)">v</tspan>
+<tspan fill="rgb(134, 148, 112)">z</tspan>
+<tspan fill="rgb(160, 173, 117)">L</tspan>
+<tspan fill="rgb(168, 179, 113)">0</tspan>
+<tspan fill="rgb(159, 172, 104)">L</tspan>
+<tspan fill="rgb(159, 174, 106)">L</tspan>
+<tspan fill="rgb(152, 168, 94)">J</tspan>
+<tspan fill="rgb(149, 160, 101)">U</tspan>
+<tspan fill="rgb(152, 162, 103)">U</tspan>
+<tspan fill="rgb(159, 171, 112)">L</tspan>
+<tspan fill="rgb(153, 165, 110)">J</tspan>
+<tspan fill="rgb(161, 173, 117)">L</tspan>
+<tspan fill="rgb(168, 179, 118)">0</tspan>
+<tspan fill="rgb(183, 197, 128)">w</tspan>
+<tspan fill="rgb(180, 187, 129)">Z</tspan>
+<tspan fill="rgb(95, 66, 43)">]</tspan>
+<tspan fill="rgb(70, 33, 14)">I</tspan>
+<tspan fill="rgb(70, 33, 18)">;</tspan>
+<tspan fill="rgb(70, 33, 21)">I</tspan>
+<tspan fill="rgb(78, 41, 27)">i</tspan>
+<tspan fill="rgb(133, 77, 63)">)</tspan>
+<tspan fill="rgb(210, 129, 110)">X</tspan>
+<tspan fill="rgb(255, 162, 139)">Z</tspan>
+<tspan fill="rgb(255, 170, 146)">m</tspan>
+<tspan fill="rgb(179, 149, 106)">U</tspan>
+<tspan fill="rgb(160, 166, 126)">C</tspan>
+<tspan fill="rgb(196, 203, 110)">p</tspan>
+<tspan fill="rgb(164, 169, 88)">C</tspan>
+<tspan fill="rgb(166, 164, 112)">C</tspan>
+<tspan fill="rgb(194, 193, 138)">w</tspan>
+<tspan fill="rgb(185, 189, 122)">m</tspan>
+<tspan fill="rgb(154, 163, 105)">J</tspan>
+<tspan fill="rgb(186, 193, 122)">m</tspan>
+<tspan fill="rgb(192, 197, 135)">q</tspan>
+<tspan fill="rgb(163, 173, 137)">Q</tspan>
+<tspan fill="rgb(158, 173, 155)">Q</tspan>
+<tspan fill="rgb(134, 149, 146)">X</tspan>
+<tspan fill="rgb(131, 148, 153)">X</tspan>
+<tspan fill="rgb(182, 193, 165)">w</tspan>
+<tspan fill="rgb(178, 183, 110)">O</tspan>
+<tspan fill="rgb(148, 157, 95)">Y</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(193, 203, 129)">p</tspan>
+<tspan fill="rgb(191, 200, 141)">q</tspan>
+<tspan fill="rgb(181, 193, 133)">m</tspan>
+<tspan fill="rgb(179, 194, 133)">m</tspan>
+<tspan fill="rgb(179, 193, 128)">m</tspan>
+<tspan fill="rgb(176, 190, 120)">Z</tspan>
+<tspan fill="rgb(178, 191, 125)">m</tspan>
+<tspan fill="rgb(185, 197, 129)">w</tspan>
+<tspan fill="rgb(181, 197, 130)">w</tspan>
+<tspan fill="rgb(170, 190, 122)">Z</tspan>
+<tspan fill="rgb(158, 174, 112)">L</tspan>
+<tspan fill="rgb(158, 174, 114)">L</tspan>
+<tspan fill="rgb(170, 188, 120)">Z</tspan>
+<tspan fill="rgb(178, 194, 121)">m</tspan>
+<tspan fill="rgb(159, 171, 116)">L</tspan>
+<tspan fill="rgb(104, 109, 86)">/</tspan>
+<tspan fill="rgb(80, 80, 71)">}</tspan>
+<tspan fill="rgb(70, 61, 50)">l</tspan>
+<tspan fill="rgb(70, 38, 25)">,I</tspan>
+<tspan fill="rgb(92, 51, 38)">_</tspan>
+<tspan fill="rgb(132, 79, 69)">)</tspan>
+<tspan fill="rgb(157, 95, 88)">t</tspan>
+<tspan fill="rgb(185, 113, 104)">n</tspan>
+<tspan fill="rgb(201, 122, 110)">c</tspan>
+<tspan fill="rgb(188, 115, 104)">u</tspan>
+<tspan fill="rgb(149, 92, 87)">/</tspan>
+<tspan fill="rgb(70, 40, 47)">!</tspan>
+<tspan fill="rgb(70, 55, 59)">l</tspan>
+<tspan fill="rgb(97, 93, 79)">(</tspan>
+<tspan fill="rgb(125, 125, 93)">x</tspan>
+<tspan fill="rgb(154, 154, 101)">Y</tspan>
+<tspan fill="rgb(149, 148, 108)">X</tspan>
+<tspan fill="rgb(180, 183, 127)">O</tspan>
+<tspan fill="rgb(178, 191, 110)">Z</tspan>
+<tspan fill="rgb(189, 202, 123)">q</tspan>
+<tspan fill="rgb(189, 200, 146)">q</tspan>
+<tspan fill="rgb(189, 204, 147)">p</tspan>
+<tspan fill="rgb(187, 203, 145)">p</tspan>
+<tspan fill="rgb(168, 189, 137)">Z</tspan>
+<tspan fill="rgb(172, 186, 144)">Z</tspan>
+<tspan fill="rgb(176, 185, 150)">Z</tspan>
+<tspan fill="rgb(191, 198, 138)">q</tspan>
+<tspan fill="rgb(178, 188, 93)">Z</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(149, 153, 82)">X</tspan>
+<tspan fill="rgb(186, 193, 115)">m</tspan>
+<tspan fill="rgb(191, 201, 122)">q</tspan>
+<tspan fill="rgb(178, 188, 122)">Z</tspan>
+<tspan fill="rgb(174, 185, 117)">O</tspan>
+<tspan fill="rgb(175, 185, 121)">O</tspan>
+<tspan fill="rgb(165, 173, 114)">L</tspan>
+<tspan fill="rgb(174, 183, 117)">O</tspan>
+<tspan fill="rgb(169, 178, 120)">0</tspan>
+<tspan fill="rgb(179, 185, 127)">Z</tspan>
+<tspan fill="rgb(138, 140, 97)">v</tspan>
+<tspan fill="rgb(86, 86, 65)">1</tspan>
+<tspan fill="rgb(105, 103, 82)">\</tspan>
+<tspan fill="rgb(79, 72, 63)">[</tspan>
+<tspan fill="rgb(70, 55, 56)">I</tspan>
+<tspan fill="rgb(65, 13, 70)">.</tspan>
+      
+<tspan fill="rgb(70, 10, 59)">.</tspan>
+<tspan fill="rgb(70, 19, 66)">&#x27;</tspan>
+<tspan fill="rgb(70, 22, 70)">&#x27;</tspan>
+<tspan fill="rgb(63, 20, 70)">&#x27;</tspan>
+<tspan fill="rgb(63, 22, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 30, 70)">^</tspan>
+ 
+<tspan fill="rgb(70, 25, 67)">`</tspan>
+<tspan fill="rgb(68, 35, 70)">,</tspan>
+<tspan fill="rgb(68, 37, 70)">,</tspan>
+<tspan fill="rgb(70, 22, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 45, 57)">&quot;</tspan>
+<tspan fill="rgb(70, 54, 61)">+</tspan>
+<tspan fill="rgb(84, 74, 66)">[</tspan>
+<tspan fill="rgb(85, 78, 72)">}</tspan>
+<tspan fill="rgb(95, 93, 74)">(</tspan>
+<tspan fill="rgb(172, 180, 140)">O</tspan>
+<tspan fill="rgb(185, 200, 126)">q</tspan>
+<tspan fill="rgb(183, 194, 132)">w</tspan>
+<tspan fill="rgb(177, 187, 146)">Z</tspan>
+<tspan fill="rgb(167, 183, 129)">O</tspan>
+<tspan fill="rgb(171, 185, 129)">O</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(136, 143, 76)">v</tspan>
+<tspan fill="rgb(154, 160, 85)">U</tspan>
+<tspan fill="rgb(169, 179, 108)">0</tspan>
+<tspan fill="rgb(175, 188, 125)">Z</tspan>
+<tspan fill="rgb(167, 180, 111)">0</tspan>
+<tspan fill="rgb(171, 183, 119)">O</tspan>
+<tspan fill="rgb(171, 182, 124)">O</tspan>
+<tspan fill="rgb(88, 88, 63)">1</tspan>
+<tspan fill="rgb(70, 58, 53)">I</tspan>
+<tspan fill="rgb(70, 56, 60)">,</tspan>
+<tspan fill="rgb(70, 19, 66)">&#x27;</tspan>
+ 
+<tspan fill="rgb(64, 11, 70)">.</tspan>
+<tspan fill="rgb(70, 25, 70)">`</tspan>
+<tspan fill="rgb(70, 27, 66)">`</tspan>
+<tspan fill="rgb(70, 36, 67)">^</tspan>
+<tspan fill="rgb(70, 26, 67)">`</tspan>
+<tspan fill="rgb(70, 32, 63)">&quot;</tspan>
+<tspan fill="rgb(70, 28, 63)">^</tspan>
+<tspan fill="rgb(70, 28, 62)">^</tspan>
+<tspan fill="rgb(70, 30, 65)">^</tspan>
+<tspan fill="rgb(70, 30, 67)">`</tspan>
+<tspan fill="rgb(70, 28, 66)">&#x27;</tspan>
+<tspan fill="rgb(70, 17, 65)">.</tspan>
+<tspan fill="rgb(70, 20, 63)">&#x27;</tspan>
+<tspan fill="rgb(70, 36, 63)">&quot;</tspan>
+<tspan fill="rgb(70, 38, 64)">,</tspan>
+<tspan fill="rgb(70, 33, 65)">^</tspan>
+<tspan fill="rgb(70, 28, 67)">`</tspan>
+<tspan fill="rgb(70, 21, 63)">&#x27;</tspan>
+<tspan fill="rgb(70, 38, 64)">,</tspan>
+<tspan fill="rgb(70, 35, 63)">&quot;</tspan>
+<tspan fill="rgb(70, 33, 65)">&quot;</tspan>
+<tspan fill="rgb(70, 22, 62)">&#x27;</tspan>
+ 
+<tspan fill="rgb(70, 20, 67)">`</tspan>
+<tspan fill="rgb(66, 21, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 10, 63)">&#x27;</tspan>
+<tspan fill="rgb(70, 47, 59)">I</tspan>
+<tspan fill="rgb(90, 85, 64)">1</tspan>
+<tspan fill="rgb(150, 155, 115)">Y</tspan>
+<tspan fill="rgb(171, 180, 128)">0</tspan>
+<tspan fill="rgb(170, 184, 132)">O</tspan>
+<tspan fill="rgb(169, 180, 137)">0</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(135, 144, 78)">c</tspan>
+<tspan fill="rgb(130, 139, 73)">u</tspan>
+<tspan fill="rgb(140, 148, 77)">z</tspan>
+<tspan fill="rgb(157, 165, 97)">J</tspan>
+<tspan fill="rgb(174, 184, 124)">O</tspan>
+<tspan fill="rgb(162, 174, 117)">L</tspan>
+<tspan fill="rgb(77, 77, 56)">[</tspan>
+   
+<tspan fill="rgb(70, 38, 62)">.</tspan>
+<tspan fill="rgb(70, 44, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 46, 58)">.</tspan>
+<tspan fill="rgb(70, 41, 60)">^</tspan>
+<tspan fill="rgb(70, 27, 60)">^</tspan>
+<tspan fill="rgb(70, 20, 64)">`</tspan>
+<tspan fill="rgb(70, 30, 63)">^</tspan>
+<tspan fill="rgb(70, 26, 64)">`</tspan>
+<tspan fill="rgb(70, 30, 65)">^</tspan>
+<tspan fill="rgb(70, 31, 65)">^</tspan>
+<tspan fill="rgb(70, 28, 62)">^</tspan>
+<tspan fill="rgb(70, 30, 63)">^</tspan>
+<tspan fill="rgb(70, 31, 63)">&quot;</tspan>
+<tspan fill="rgb(70, 33, 65)">^</tspan>
+<tspan fill="rgb(70, 24, 66)">&#x27;</tspan>
+<tspan fill="rgb(70, 20, 65)">&#x27;</tspan>
+<tspan fill="rgb(70, 43, 70)">^</tspan>
+<tspan fill="rgb(67, 42, 70)">&quot;</tspan>
+<tspan fill="rgb(70, 29, 67)">`</tspan>
+<tspan fill="rgb(70, 25, 64)">`</tspan>
+<tspan fill="rgb(70, 26, 64)">`</tspan>
+<tspan fill="rgb(70, 32, 63)">^</tspan>
+<tspan fill="rgb(70, 46, 65)">I</tspan>
+<tspan fill="rgb(70, 37, 64)">,</tspan>
+<tspan fill="rgb(70, 21, 60)">&#x27;</tspan>
+<tspan fill="rgb(70, 31, 62)">^</tspan>
+<tspan fill="rgb(70, 26, 61)">`</tspan>
+<tspan fill="rgb(70, 32, 63)">^</tspan>
+<tspan fill="rgb(70, 31, 67)">^</tspan>
+<tspan fill="rgb(70, 22, 70)">`</tspan>
+<tspan fill="rgb(70, 51, 57)">l</tspan>
+<tspan fill="rgb(101, 107, 68)">/</tspan>
+<tspan fill="rgb(96, 110, 65)">/</tspan>
+<tspan fill="rgb(114, 127, 82)">r</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(110, 113, 65)">t</tspan>
+<tspan fill="rgb(109, 112, 68)">t</tspan>
+<tspan fill="rgb(103, 105, 61)">\</tspan>
+<tspan fill="rgb(145, 148, 86)">z</tspan>
+<tspan fill="rgb(192, 203, 137)">p</tspan>
+<tspan fill="rgb(103, 107, 79)">/</tspan>
+ 
+<tspan fill="rgb(70, 23, 58)">.</tspan>
+<tspan fill="rgb(70, 30, 60)">&#x27;</tspan>
+<tspan fill="rgb(70, 32, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 37, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 30, 65)">&#x27;</tspan>
+<tspan fill="rgb(70, 21, 63)">.</tspan>
+ 
+<tspan fill="rgb(70, 39, 61)">^</tspan>
+<tspan fill="rgb(70, 19, 60)">&#x27;</tspan>
+<tspan fill="rgb(70, 20, 63)">&#x27;</tspan>
+<tspan fill="rgb(70, 24, 64)">`</tspan>
+<tspan fill="rgb(70, 26, 64)">`</tspan>
+<tspan fill="rgb(70, 31, 65)">^</tspan>
+<tspan fill="rgb(70, 32, 65)">^^</tspan>
+<tspan fill="rgb(70, 31, 65)">^^</tspan>
+<tspan fill="rgb(70, 31, 64)">^</tspan>
+<tspan fill="rgb(70, 33, 70)">`</tspan>
+<tspan fill="rgb(70, 22, 66)">&#x27;</tspan>
+<tspan fill="rgb(70, 32, 70)">`</tspan>
+<tspan fill="rgb(70, 28, 64)">^</tspan>
+<tspan fill="rgb(70, 25, 62)">`</tspan>
+<tspan fill="rgb(70, 24, 64)">`</tspan>
+<tspan fill="rgb(70, 35, 63)">&quot;</tspan>
+<tspan fill="rgb(70, 50, 64)">!</tspan>
+<tspan fill="rgb(70, 42, 66)">:</tspan>
+<tspan fill="rgb(70, 25, 65)">`</tspan>
+<tspan fill="rgb(70, 31, 66)">&#x27;</tspan>
+ 
+<tspan fill="rgb(70, 28, 70)">`</tspan>
+<tspan fill="rgb(70, 33, 70)">^</tspan>
+<tspan fill="rgb(70, 35, 65)">&quot;</tspan>
+<tspan fill="rgb(67, 32, 70)">&quot;</tspan>
+<tspan fill="rgb(70, 43, 59)">,</tspan>
+<tspan fill="rgb(118, 128, 69)">r</tspan>
+<tspan fill="rgb(121, 137, 72)">n</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(132, 135, 74)">u</tspan>
+<tspan fill="rgb(128, 132, 74)">n</tspan>
+<tspan fill="rgb(107, 113, 61)">t</tspan>
+<tspan fill="rgb(138, 148, 74)">c</tspan>
+<tspan fill="rgb(189, 197, 131)">q</tspan>
+<tspan fill="rgb(79, 77, 68)">}</tspan>
+ 
+<tspan fill="rgb(70, 21, 49)">.</tspan>
+ 
+<tspan fill="rgb(70, 20, 55)">.</tspan>
+<tspan fill="rgb(70, 25, 50)">.</tspan>
+<tspan fill="rgb(70, 28, 56)">&#x27;</tspan>
+<tspan fill="rgb(70, 32, 53)">&#x27;</tspan>
+ 
+<tspan fill="rgb(70, 46, 58)">.</tspan>
+<tspan fill="rgb(70, 33, 66)">`</tspan>
+<tspan fill="rgb(70, 18, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 18, 55)">&#x27;</tspan>
+<tspan fill="rgb(70, 20, 61)">`</tspan>
+<tspan fill="rgb(70, 25, 64)">`</tspan>
+<tspan fill="rgb(70, 30, 65)">^</tspan>
+<tspan fill="rgb(70, 31, 65)">^</tspan>
+<tspan fill="rgb(70, 32, 65)">&quot;</tspan>
+<tspan fill="rgb(70, 36, 64)">&quot;</tspan>
+<tspan fill="rgb(70, 30, 65)">^</tspan>
+<tspan fill="rgb(70, 21, 70)">&#x27;</tspan>
+<tspan fill="rgb(66, 31, 70)">`</tspan>
+<tspan fill="rgb(66, 22, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 29, 67)">`</tspan>
+<tspan fill="rgb(70, 33, 67)">^</tspan>
+<tspan fill="rgb(70, 30, 65)">^</tspan>
+<tspan fill="rgb(70, 31, 65)">^^</tspan>
+<tspan fill="rgb(70, 36, 66)">,</tspan>
+<tspan fill="rgb(70, 30, 65)">^</tspan>
+<tspan fill="rgb(62, 29, 70)">&#x27;</tspan>
+  
+<tspan fill="rgb(70, 30, 70)">`</tspan>
+<tspan fill="rgb(70, 37, 67)">&quot;</tspan>
+<tspan fill="rgb(70, 42, 64)">,</tspan>
+<tspan fill="rgb(70, 40, 62)">,</tspan>
+<tspan fill="rgb(70, 64, 44)">i</tspan>
+<tspan fill="rgb(65, 75, 39)">]</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(132, 138, 72)">u</tspan>
+<tspan fill="rgb(148, 155, 80)">X</tspan>
+<tspan fill="rgb(127, 136, 72)">u</tspan>
+<tspan fill="rgb(121, 128, 69)">x</tspan>
+<tspan fill="rgb(176, 185, 111)">O</tspan>
+<tspan fill="rgb(70, 72, 52)">]</tspan>
+ 
+<tspan fill="rgb(70, 40, 40)">.</tspan>
+        
+<tspan fill="rgb(70, 24, 61)">&#x27;</tspan>
+<tspan fill="rgb(70, 14, 58)">&#x27;</tspan>
+<tspan fill="rgb(70, 23, 58)">`</tspan>
+<tspan fill="rgb(70, 21, 63)">&#x27;</tspan>
+<tspan fill="rgb(70, 24, 63)">`</tspan>
+<tspan fill="rgb(70, 30, 63)">^</tspan>
+<tspan fill="rgb(70, 36, 64)">&quot;&quot;</tspan>
+<tspan fill="rgb(70, 35, 64)">,</tspan>
+<tspan fill="rgb(70, 24, 63)">`</tspan>
+ 
+<tspan fill="rgb(70, 14, 65)">.</tspan>
+<tspan fill="rgb(70, 21, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 25, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 27, 66)">`</tspan>
+<tspan fill="rgb(70, 26, 61)">`</tspan>
+<tspan fill="rgb(70, 31, 63)">^</tspan>
+<tspan fill="rgb(70, 39, 64)">:</tspan>
+<tspan fill="rgb(70, 28, 65)">^</tspan>
+<tspan fill="rgb(70, 36, 63)">`</tspan>
+<tspan fill="rgb(86, 59, 59)">?</tspan>
+<tspan fill="rgb(177, 121, 118)">u</tspan>
+<tspan fill="rgb(207, 142, 136)">U</tspan>
+<tspan fill="rgb(212, 135, 128)">Y</tspan>
+<tspan fill="rgb(221, 151, 139)">L</tspan>
+<tspan fill="rgb(218, 153, 140)">L</tspan>
+<tspan fill="rgb(186, 132, 126)">z</tspan>
+<tspan fill="rgb(125, 97, 78)">\</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(130, 134, 70)">n</tspan>
+<tspan fill="rgb(142, 144, 77)">c</tspan>
+<tspan fill="rgb(148, 155, 80)">X</tspan>
+<tspan fill="rgb(153, 164, 83)">U</tspan>
+<tspan fill="rgb(171, 187, 89)">O</tspan>
+<tspan fill="rgb(86, 91, 52)">1</tspan>
+  
+<tspan fill="rgb(70, 27, 58)">&#x27;</tspan>
+<tspan fill="rgb(70, 38, 45)">I</tspan>
+<tspan fill="rgb(93, 57, 57)">-</tspan>
+<tspan fill="rgb(123, 81, 76)">)</tspan>
+<tspan fill="rgb(156, 109, 99)">r</tspan>
+<tspan fill="rgb(178, 136, 129)">z</tspan>
+<tspan fill="rgb(155, 122, 121)">n</tspan>
+<tspan fill="rgb(70, 53, 57)">`</tspan>
+   
+<tspan fill="rgb(61, 13, 70)">.</tspan>
+<tspan fill="rgb(70, 8, 70)">.</tspan>
+ 
+<tspan fill="rgb(56, 0, 70)">.</tspan>
+<tspan fill="rgb(61, 4, 70)">.</tspan>
+<tspan fill="rgb(70, 21, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 24, 70)">`</tspan>
+<tspan fill="rgb(60, 14, 70)">.</tspan>
+  
+<tspan fill="rgb(60, 14, 70)">.</tspan>
+ 
+<tspan fill="rgb(70, 30, 70)">`</tspan>
+<tspan fill="rgb(65, 10, 70)">.</tspan>
+<tspan fill="rgb(66, 27, 70)">&#x27;</tspan>
+ 
+<tspan fill="rgb(70, 33, 44)">`</tspan>
+<tspan fill="rgb(187, 111, 105)">n</tspan>
+<tspan fill="rgb(231, 134, 128)">U</tspan>
+<tspan fill="rgb(222, 126, 118)">X</tspan>
+<tspan fill="rgb(253, 146, 140)">Q</tspan>
+<tspan fill="rgb(255, 175, 165)">q</tspan>
+<tspan fill="rgb(255, 172, 161)">w</tspan>
+<tspan fill="rgb(255, 170, 150)">w</tspan>
+<tspan fill="rgb(255, 178, 144)">q</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(106, 108, 60)">/</tspan>
+<tspan fill="rgb(129, 128, 70)">x</tspan>
+<tspan fill="rgb(126, 129, 70)">x</tspan>
+<tspan fill="rgb(121, 129, 67)">x</tspan>
+<tspan fill="rgb(167, 179, 87)">Q</tspan>
+<tspan fill="rgb(108, 113, 67)">t</tspan>
+<tspan fill="rgb(70, 26, 39)">&#x27;</tspan>
+<tspan fill="rgb(102, 61, 51)">]</tspan>
+<tspan fill="rgb(176, 106, 85)">r</tspan>
+<tspan fill="rgb(224, 135, 108)">Y</tspan>
+<tspan fill="rgb(254, 157, 123)">O</tspan>
+<tspan fill="rgb(255, 175, 139)">w</tspan>
+<tspan fill="rgb(255, 188, 151)">d</tspan>
+<tspan fill="rgb(255, 196, 162)">k</tspan>
+<tspan fill="rgb(255, 215, 189)">*</tspan>
+<tspan fill="rgb(115, 79, 72)">1</tspan>
+<tspan fill="rgb(70, 38, 32)">I</tspan>
+<tspan fill="rgb(93, 61, 51)">?</tspan>
+<tspan fill="rgb(83, 55, 48)">_</tspan>
+<tspan fill="rgb(70, 50, 48)">;</tspan>
+<tspan fill="rgb(70, 57, 62)">,</tspan>
+<tspan fill="rgb(70, 48, 50)">,</tspan>
+<tspan fill="rgb(89, 58, 61)">?</tspan>
+<tspan fill="rgb(75, 45, 51)">~</tspan>
+<tspan fill="rgb(70, 43, 47)">!</tspan>
+<tspan fill="rgb(70, 43, 48)">!</tspan>
+<tspan fill="rgb(70, 43, 52)">;</tspan>
+<tspan fill="rgb(70, 30, 49)">&quot;</tspan>
+<tspan fill="rgb(70, 28, 42)">&#x27;</tspan>
+<tspan fill="rgb(70, 30, 50)">`</tspan>
+<tspan fill="rgb(70, 25, 51)">&#x27;</tspan>
+<tspan fill="rgb(70, 30, 52)">&#x27;</tspan>
+<tspan fill="rgb(70, 25, 55)">&#x27;</tspan>
+<tspan fill="rgb(70, 35, 35)">.</tspan>
+<tspan fill="rgb(70, 39, 35)">&quot;</tspan>
+<tspan fill="rgb(142, 82, 72)">(</tspan>
+<tspan fill="rgb(220, 129, 114)">X</tspan>
+<tspan fill="rgb(207, 122, 107)">c</tspan>
+<tspan fill="rgb(211, 123, 105)">c</tspan>
+<tspan fill="rgb(238, 135, 118)">U</tspan>
+<tspan fill="rgb(250, 158, 142)">O</tspan>
+<tspan fill="rgb(245, 158, 143)">O</tspan>
+<tspan fill="rgb(239, 135, 101)">U</tspan>
+<tspan fill="rgb(253, 161, 119)">O</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(115, 117, 64)">f</tspan>
+<tspan fill="rgb(135, 138, 75)">u</tspan>
+<tspan fill="rgb(113, 116, 67)">f</tspan>
+<tspan fill="rgb(113, 113, 66)">t</tspan>
+<tspan fill="rgb(145, 153, 79)">X</tspan>
+<tspan fill="rgb(124, 133, 77)">n</tspan>
+<tspan fill="rgb(82, 55, 33)">_</tspan>
+<tspan fill="rgb(134, 76, 45)">1</tspan>
+<tspan fill="rgb(160, 91, 61)">/</tspan>
+<tspan fill="rgb(183, 104, 75)">r</tspan>
+<tspan fill="rgb(211, 121, 92)">c</tspan>
+<tspan fill="rgb(239, 141, 107)">J</tspan>
+<tspan fill="rgb(252, 164, 129)">Z</tspan>
+<tspan fill="rgb(250, 175, 140)">w</tspan>
+<tspan fill="rgb(251, 175, 142)">w</tspan>
+<tspan fill="rgb(210, 115, 93)">v</tspan>
+<tspan fill="rgb(198, 99, 77)">r</tspan>
+<tspan fill="rgb(213, 116, 93)">v</tspan>
+<tspan fill="rgb(178, 104, 88)">r</tspan>
+<tspan fill="rgb(70, 64, 53)">+</tspan>
+<tspan fill="rgb(39, 70, 49)">,</tspan>
+<tspan fill="rgb(111, 94, 87)">|</tspan>
+<tspan fill="rgb(255, 209, 187)">o</tspan>
+<tspan fill="rgb(255, 192, 162)">b</tspan>
+<tspan fill="rgb(255, 184, 152)">p</tspan>
+<tspan fill="rgb(255, 176, 145)">q</tspan>
+<tspan fill="rgb(247, 167, 138)">Z</tspan>
+<tspan fill="rgb(237, 160, 133)">0</tspan>
+<tspan fill="rgb(232, 160, 133)">0</tspan>
+<tspan fill="rgb(231, 159, 132)">0</tspan>
+<tspan fill="rgb(233, 158, 131)">0</tspan>
+<tspan fill="rgb(226, 153, 128)">L</tspan>
+<tspan fill="rgb(224, 150, 127)">L</tspan>
+<tspan fill="rgb(232, 158, 135)">0</tspan>
+<tspan fill="rgb(247, 163, 139)">Z</tspan>
+<tspan fill="rgb(255, 168, 141)">m</tspan>
+<tspan fill="rgb(253, 165, 135)">Z</tspan>
+<tspan fill="rgb(255, 171, 138)">m</tspan>
+<tspan fill="rgb(255, 173, 138)">w</tspan>
+<tspan fill="rgb(255, 175, 139)">w</tspan>
+<tspan fill="rgb(254, 176, 140)">w</tspan>
+<tspan fill="rgb(253, 169, 134)">m</tspan>
+<tspan fill="rgb(254, 176, 139)">w</tspan>
+<tspan fill="rgb(254, 183, 140)">p</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(119, 123, 66)">r</tspan>
+<tspan fill="rgb(115, 119, 63)">f</tspan>
+<tspan fill="rgb(120, 125, 73)">r</tspan>
+<tspan fill="rgb(115, 122, 68)">j</tspan>
+<tspan fill="rgb(141, 153, 77)">X</tspan>
+<tspan fill="rgb(167, 181, 91)">0</tspan>
+<tspan fill="rgb(158, 160, 84)">U</tspan>
+<tspan fill="rgb(93, 53, 24)">_</tspan>
+<tspan fill="rgb(124, 66, 40)">}</tspan>
+<tspan fill="rgb(145, 81, 54)">(</tspan>
+<tspan fill="rgb(169, 94, 67)">t</tspan>
+<tspan fill="rgb(212, 120, 88)">c</tspan>
+<tspan fill="rgb(249, 150, 115)">Q</tspan>
+<tspan fill="rgb(255, 160, 124)">O</tspan>
+<tspan fill="rgb(255, 161, 124)">O</tspan>
+<tspan fill="rgb(234, 131, 102)">Y</tspan>
+<tspan fill="rgb(217, 122, 94)">c</tspan>
+<tspan fill="rgb(203, 121, 94)">v</tspan>
+<tspan fill="rgb(162, 97, 76)">t</tspan>
+<tspan fill="rgb(120, 74, 55)">{</tspan>
+<tspan fill="rgb(113, 70, 52)">}</tspan>
+<tspan fill="rgb(145, 85, 66)">|</tspan>
+<tspan fill="rgb(158, 91, 70)">/</tspan>
+<tspan fill="rgb(162, 93, 69)">/</tspan>
+<tspan fill="rgb(177, 102, 72)">j</tspan>
+<tspan fill="rgb(199, 119, 90)">v</tspan>
+<tspan fill="rgb(216, 134, 103)">Y</tspan>
+<tspan fill="rgb(228, 146, 115)">C</tspan>
+<tspan fill="rgb(231, 149, 119)">L</tspan>
+<tspan fill="rgb(230, 152, 120)">L</tspan>
+<tspan fill="rgb(231, 155, 121)">Q</tspan>
+<tspan fill="rgb(242, 159, 128)">0</tspan>
+<tspan fill="rgb(248, 160, 130)">O</tspan>
+<tspan fill="rgb(248, 159, 129)">O</tspan>
+<tspan fill="rgb(245, 158, 128)">0</tspan>
+<tspan fill="rgb(243, 153, 125)">Q</tspan>
+<tspan fill="rgb(243, 149, 120)">L</tspan>
+<tspan fill="rgb(239, 146, 116)">C</tspan>
+<tspan fill="rgb(241, 146, 115)">L</tspan>
+<tspan fill="rgb(251, 155, 120)">0</tspan>
+<tspan fill="rgb(255, 165, 128)">Z</tspan>
+<tspan fill="rgb(255, 170, 136)">m</tspan>
+<tspan fill="rgb(255, 173, 138)">w</tspan>
+<tspan fill="rgb(255, 181, 141)">q</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(113, 115, 62)">f</tspan>
+<tspan fill="rgb(109, 109, 61)">/</tspan>
+<tspan fill="rgb(105, 106, 70)">/</tspan>
+<tspan fill="rgb(140, 148, 91)">z</tspan>
+<tspan fill="rgb(180, 193, 105)">m</tspan>
+<tspan fill="rgb(165, 177, 96)">Q</tspan>
+<tspan fill="rgb(156, 170, 96)">C</tspan>
+<tspan fill="rgb(116, 105, 63)">/</tspan>
+<tspan fill="rgb(98, 52, 25)">_</tspan>
+<tspan fill="rgb(137, 79, 50)">)</tspan>
+<tspan fill="rgb(145, 80, 54)">(</tspan>
+<tspan fill="rgb(159, 87, 58)">\</tspan>
+<tspan fill="rgb(191, 109, 80)">x</tspan>
+<tspan fill="rgb(215, 123, 93)">c</tspan>
+<tspan fill="rgb(226, 135, 102)">Y</tspan>
+<tspan fill="rgb(239, 149, 113)">L</tspan>
+<tspan fill="rgb(249, 158, 123)">0</tspan>
+<tspan fill="rgb(253, 165, 132)">Z</tspan>
+<tspan fill="rgb(255, 174, 140)">w</tspan>
+<tspan fill="rgb(255, 174, 138)">w</tspan>
+<tspan fill="rgb(254, 169, 133)">m</tspan>
+<tspan fill="rgb(239, 157, 122)">0</tspan>
+<tspan fill="rgb(202, 123, 92)">c</tspan>
+<tspan fill="rgb(163, 94, 69)">t</tspan>
+<tspan fill="rgb(146, 82, 63)">(</tspan>
+<tspan fill="rgb(133, 72, 54)">{</tspan>
+<tspan fill="rgb(118, 63, 40)">[</tspan>
+<tspan fill="rgb(127, 69, 44)">}</tspan>
+<tspan fill="rgb(148, 87, 61)">|</tspan>
+<tspan fill="rgb(172, 105, 80)">j</tspan>
+<tspan fill="rgb(187, 120, 95)">u</tspan>
+<tspan fill="rgb(195, 123, 97)">v</tspan>
+<tspan fill="rgb(205, 127, 98)">z</tspan>
+<tspan fill="rgb(218, 134, 102)">Y</tspan>
+<tspan fill="rgb(226, 137, 107)">U</tspan>
+<tspan fill="rgb(226, 135, 107)">U</tspan>
+<tspan fill="rgb(224, 134, 109)">Y</tspan>
+<tspan fill="rgb(217, 129, 104)">X</tspan>
+<tspan fill="rgb(208, 121, 98)">c</tspan>
+<tspan fill="rgb(212, 126, 100)">z</tspan>
+<tspan fill="rgb(220, 131, 105)">X</tspan>
+<tspan fill="rgb(226, 134, 109)">Y</tspan>
+<tspan fill="rgb(236, 143, 117)">C</tspan>
+<tspan fill="rgb(249, 151, 130)">Q</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(98, 100, 58)">|</tspan>
+<tspan fill="rgb(95, 98, 62)">(</tspan>
+<tspan fill="rgb(67, 70, 45)">?</tspan>
+<tspan fill="rgb(82, 86, 57)">{</tspan>
+<tspan fill="rgb(122, 129, 83)">x</tspan>
+<tspan fill="rgb(102, 106, 70)">\</tspan>
+<tspan fill="rgb(99, 104, 67)">\</tspan>
+<tspan fill="rgb(123, 135, 86)">n</tspan>
+<tspan fill="rgb(99, 88, 48)">1</tspan>
+<tspan fill="rgb(98, 50, 21)">_</tspan>
+<tspan fill="rgb(147, 81, 53)">(</tspan>
+<tspan fill="rgb(173, 94, 67)">t</tspan>
+<tspan fill="rgb(197, 111, 82)">n</tspan>
+<tspan fill="rgb(199, 113, 84)">n</tspan>
+<tspan fill="rgb(194, 109, 80)">x</tspan>
+<tspan fill="rgb(193, 110, 79)">x</tspan>
+<tspan fill="rgb(200, 115, 82)">u</tspan>
+<tspan fill="rgb(214, 123, 92)">c</tspan>
+<tspan fill="rgb(232, 136, 104)">U</tspan>
+<tspan fill="rgb(250, 152, 117)">Q</tspan>
+<tspan fill="rgb(254, 161, 125)">O</tspan>
+<tspan fill="rgb(255, 165, 128)">Z</tspan>
+<tspan fill="rgb(255, 171, 134)">m</tspan>
+<tspan fill="rgb(255, 174, 136)">w</tspan>
+<tspan fill="rgb(255, 172, 137)">w</tspan>
+<tspan fill="rgb(247, 158, 127)">0</tspan>
+<tspan fill="rgb(211, 131, 101)">X</tspan>
+<tspan fill="rgb(159, 94, 66)">/</tspan>
+<tspan fill="rgb(110, 61, 33)">]</tspan>
+<tspan fill="rgb(82, 44, 17)">~</tspan>
+<tspan fill="rgb(82, 46, 19)">~</tspan>
+<tspan fill="rgb(90, 55, 28)">_</tspan>
+<tspan fill="rgb(100, 62, 42)">]</tspan>
+<tspan fill="rgb(117, 73, 50)">{</tspan>
+<tspan fill="rgb(141, 87, 60)">|</tspan>
+<tspan fill="rgb(157, 97, 68)">t</tspan>
+<tspan fill="rgb(157, 98, 68)">t</tspan>
+<tspan fill="rgb(153, 93, 64)">/</tspan>
+<tspan fill="rgb(149, 91, 62)">\</tspan>
+<tspan fill="rgb(131, 81, 51)">)</tspan>
+<tspan fill="rgb(122, 78, 43)">1</tspan>
+<tspan fill="rgb(107, 73, 37)">}</tspan>
+<tspan fill="rgb(85, 57, 30)">-</tspan>
+<tspan fill="rgb(121, 85, 53)">)</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(82, 86, 52)">{</tspan>
+<tspan fill="rgb(90, 92, 56)">)</tspan>
+<tspan fill="rgb(99, 103, 61)">\</tspan>
+<tspan fill="rgb(79, 84, 53)">{</tspan>
+<tspan fill="rgb(66, 71, 50)">?</tspan>
+<tspan fill="rgb(89, 96, 60)">(</tspan>
+<tspan fill="rgb(115, 121, 74)">j</tspan>
+<tspan fill="rgb(125, 128, 75)">x</tspan>
+<tspan fill="rgb(148, 142, 101)">c</tspan>
+<tspan fill="rgb(105, 85, 48)">1</tspan>
+<tspan fill="rgb(88, 41, 14)">i</tspan>
+<tspan fill="rgb(157, 81, 56)">|</tspan>
+<tspan fill="rgb(215, 120, 92)">c</tspan>
+<tspan fill="rgb(229, 134, 102)">Y</tspan>
+<tspan fill="rgb(224, 131, 98)">X</tspan>
+<tspan fill="rgb(211, 124, 90)">c</tspan>
+<tspan fill="rgb(194, 112, 77)">n</tspan>
+<tspan fill="rgb(185, 105, 71)">r</tspan>
+<tspan fill="rgb(184, 104, 69)">r</tspan>
+<tspan fill="rgb(182, 103, 67)">j</tspan>
+<tspan fill="rgb(181, 103, 67)">j</tspan>
+<tspan fill="rgb(183, 102, 66)">j</tspan>
+<tspan fill="rgb(183, 104, 68)">r</tspan>
+<tspan fill="rgb(177, 100, 67)">f</tspan>
+<tspan fill="rgb(166, 97, 67)">t</tspan>
+<tspan fill="rgb(153, 91, 63)">\</tspan>
+<tspan fill="rgb(134, 81, 59)">)</tspan>
+<tspan fill="rgb(108, 66, 51)">[</tspan>
+<tspan fill="rgb(70, 44, 32)">i</tspan>
+<tspan fill="rgb(70, 46, 25)">,</tspan>
+<tspan fill="rgb(70, 42, 0)">.</tspan>
+    
+<tspan fill="rgb(70, 43, 0)">.</tspan>
+<tspan fill="rgb(70, 52, 23)">&#x27;</tspan>
+<tspan fill="rgb(70, 33, 33)">`</tspan>
+<tspan fill="rgb(70, 47, 35)">;</tspan>
+<tspan fill="rgb(83, 87, 34)">{</tspan>
+<tspan fill="rgb(86, 101, 33)">(</tspan>
+<tspan fill="rgb(70, 85, 35)">}</tspan>
+<tspan fill="rgb(67, 81, 29)">[</tspan>
+<tspan fill="rgb(88, 111, 38)">\</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(96, 100, 57)">|</tspan>
+<tspan fill="rgb(102, 105, 63)">\</tspan>
+<tspan fill="rgb(101, 102, 57)">|</tspan>
+<tspan fill="rgb(106, 112, 60)">t</tspan>
+<tspan fill="rgb(125, 140, 80)">u</tspan>
+<tspan fill="rgb(146, 162, 91)">U</tspan>
+<tspan fill="rgb(171, 186, 105)">O</tspan>
+<tspan fill="rgb(172, 183, 104)">0</tspan>
+<tspan fill="rgb(202, 207, 131)">d</tspan>
+<tspan fill="rgb(192, 202, 126)">p</tspan>
+<tspan fill="rgb(157, 159, 94)">U</tspan>
+<tspan fill="rgb(108, 82, 54)">1</tspan>
+<tspan fill="rgb(85, 52, 40)">_</tspan>
+<tspan fill="rgb(70, 43, 32)">i</tspan>
+<tspan fill="rgb(70, 41, 27)">l</tspan>
+<tspan fill="rgb(70, 40, 26)">l</tspan>
+<tspan fill="rgb(70, 38, 21)">I</tspan>
+<tspan fill="rgb(70, 38, 20)">;</tspan>
+<tspan fill="rgb(70, 38, 22)">;</tspan>
+<tspan fill="rgb(70, 39, 20)">;</tspan>
+<tspan fill="rgb(70, 38, 21)">;</tspan>
+<tspan fill="rgb(70, 39, 24)">:</tspan>
+<tspan fill="rgb(70, 42, 25)">&quot;</tspan>
+<tspan fill="rgb(70, 42, 28)">`</tspan>
+<tspan fill="rgb(70, 35, 42)">.</tspan>
+            
+<tspan fill="rgb(56, 9, 70)">.</tspan>
+<tspan fill="rgb(70, 48, 63)">,</tspan>
+<tspan fill="rgb(92, 105, 47)">|</tspan>
+<tspan fill="rgb(76, 94, 30)">1</tspan>
+<tspan fill="rgb(75, 90, 42)">{</tspan>
+<tspan fill="rgb(87, 99, 46)">(</tspan>
+<tspan fill="rgb(87, 100, 44)">(</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(94, 95, 55)">(</tspan>
+<tspan fill="rgb(114, 117, 66)">f</tspan>
+<tspan fill="rgb(98, 101, 57)">|</tspan>
+<tspan fill="rgb(82, 87, 44)">{</tspan>
+<tspan fill="rgb(95, 107, 53)">\</tspan>
+<tspan fill="rgb(105, 120, 64)">f</tspan>
+<tspan fill="rgb(110, 123, 60)">j</tspan>
+<tspan fill="rgb(166, 178, 100)">Q</tspan>
+<tspan fill="rgb(191, 199, 125)">q</tspan>
+<tspan fill="rgb(187, 198, 124)">q</tspan>
+<tspan fill="rgb(204, 220, 136)">h</tspan>
+<tspan fill="rgb(137, 149, 102)">z</tspan>
+            
+<tspan fill="rgb(50, 20, 70)">.</tspan>
+<tspan fill="rgb(52, 21, 70)">.</tspan>
+<tspan fill="rgb(61, 26, 70)">&#x27;</tspan>
+<tspan fill="rgb(62, 27, 70)">&#x27;</tspan>
+<tspan fill="rgb(62, 31, 70)">&#x27;</tspan>
+<tspan fill="rgb(57, 28, 70)">&#x27;</tspan>
+<tspan fill="rgb(55, 20, 70)">.</tspan>
+<tspan fill="rgb(65, 26, 70)">&#x27;</tspan>
+<tspan fill="rgb(66, 33, 70)">`</tspan>
+<tspan fill="rgb(66, 28, 70)">&#x27;</tspan>
+<tspan fill="rgb(62, 31, 70)">&#x27;</tspan>
+<tspan fill="rgb(61, 26, 70)">&#x27;</tspan>
+ 
+<tspan fill="rgb(63, 25, 70)">`</tspan>
+<tspan fill="rgb(70, 40, 65)">,</tspan>
+<tspan fill="rgb(85, 92, 35)">1</tspan>
+<tspan fill="rgb(76, 90, 20)">{</tspan>
+<tspan fill="rgb(72, 84, 23)">}</tspan>
+<tspan fill="rgb(113, 130, 53)">r</tspan>
+<tspan fill="rgb(138, 148, 77)">c</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(135, 140, 70)">v</tspan>
+<tspan fill="rgb(121, 126, 62)">r</tspan>
+<tspan fill="rgb(109, 116, 61)">f</tspan>
+<tspan fill="rgb(117, 124, 80)">r</tspan>
+<tspan fill="rgb(151, 165, 112)">J</tspan>
+<tspan fill="rgb(147, 167, 106)">J</tspan>
+<tspan fill="rgb(170, 189, 117)">Z</tspan>
+<tspan fill="rgb(176, 193, 121)">m</tspan>
+<tspan fill="rgb(154, 168, 104)">C</tspan>
+<tspan fill="rgb(132, 149, 88)">z</tspan>
+<tspan fill="rgb(123, 141, 79)">u</tspan>
+<tspan fill="rgb(65, 71, 46)">?</tspan>
+          
+<tspan fill="rgb(70, 25, 70)">.</tspan>
+<tspan fill="rgb(62, 29, 70)">&#x27;</tspan>
+<tspan fill="rgb(65, 28, 70)">&#x27;</tspan>
+<tspan fill="rgb(58, 31, 70)">&#x27;</tspan>
+<tspan fill="rgb(56, 30, 70)">&#x27;</tspan>
+<tspan fill="rgb(61, 26, 70)">&#x27;</tspan>
+<tspan fill="rgb(62, 29, 70)">&#x27;</tspan>
+<tspan fill="rgb(63, 31, 70)">`</tspan>
+<tspan fill="rgb(62, 29, 70)">&#x27;</tspan>
+<tspan fill="rgb(64, 35, 70)">`</tspan>
+<tspan fill="rgb(70, 41, 70)">&quot;</tspan>
+<tspan fill="rgb(67, 37, 70)">^</tspan>
+<tspan fill="rgb(67, 42, 70)">^</tspan>
+<tspan fill="rgb(66, 33, 70)">`</tspan>
+<tspan fill="rgb(61, 13, 70)">.</tspan>
+<tspan fill="rgb(70, 37, 70)">^</tspan>
+<tspan fill="rgb(60, 16, 70)">&#x27;</tspan>
+<tspan fill="rgb(70, 59, 36)">l</tspan>
+<tspan fill="rgb(75, 82, 20)">[</tspan>
+<tspan fill="rgb(71, 80, 21)">[</tspan>
+<tspan fill="rgb(81, 92, 24)">1</tspan>
+<tspan fill="rgb(101, 115, 27)">/</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(125, 131, 63)">x</tspan>
+<tspan fill="rgb(121, 127, 59)">r</tspan>
+<tspan fill="rgb(118, 125, 66)">r</tspan>
+<tspan fill="rgb(117, 123, 70)">j</tspan>
+<tspan fill="rgb(108, 116, 68)">f</tspan>
+<tspan fill="rgb(127, 143, 85)">v</tspan>
+<tspan fill="rgb(149, 159, 102)">U</tspan>
+<tspan fill="rgb(137, 141, 93)">v</tspan>
+<tspan fill="rgb(121, 136, 79)">n</tspan>
+<tspan fill="rgb(120, 130, 77)">x</tspan>
+<tspan fill="rgb(131, 144, 87)">c</tspan>
+<tspan fill="rgb(67, 70, 54)">,</tspan>
+            
+<tspan fill="rgb(56, 23, 70)">.</tspan>
+<tspan fill="rgb(54, 27, 70)">&#x27;</tspan>
+<tspan fill="rgb(56, 26, 70)">&#x27;</tspan>
+<tspan fill="rgb(56, 23, 70)">.</tspan>
+<tspan fill="rgb(61, 21, 70)">&#x27;</tspan>
+<tspan fill="rgb(63, 31, 70)">`</tspan>
+<tspan fill="rgb(70, 30, 66)">`</tspan>
+<tspan fill="rgb(70, 33, 67)">^</tspan>
+<tspan fill="rgb(70, 40, 70)">&quot;</tspan>
+<tspan fill="rgb(70, 41, 70)">&quot;&quot;</tspan>
+<tspan fill="rgb(67, 41, 70)">^</tspan>
+<tspan fill="rgb(66, 36, 70)">`</tspan>
+<tspan fill="rgb(67, 42, 70)">^</tspan>
+<tspan fill="rgb(60, 30, 70)">`</tspan>
+<tspan fill="rgb(70, 52, 59)">^</tspan>
+<tspan fill="rgb(77, 83, 37)">}</tspan>
+<tspan fill="rgb(110, 121, 51)">f</tspan>
+<tspan fill="rgb(147, 158, 65)">Y</tspan>
+<tspan fill="rgb(127, 134, 45)">n</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(77, 80, 45)">}</tspan>
+<tspan fill="rgb(79, 82, 43)">}</tspan>
+<tspan fill="rgb(82, 83, 44)">{</tspan>
+<tspan fill="rgb(91, 95, 46)">)</tspan>
+<tspan fill="rgb(78, 83, 41)">}</tspan>
+<tspan fill="rgb(74, 82, 36)">}</tspan>
+<tspan fill="rgb(80, 83, 43)">}</tspan>
+<tspan fill="rgb(122, 116, 85)">j</tspan>
+<tspan fill="rgb(118, 125, 78)">r</tspan>
+<tspan fill="rgb(109, 117, 61)">f</tspan>
+<tspan fill="rgb(104, 119, 52)">f</tspan>
+<tspan fill="rgb(68, 76, 45)">]</tspan>
+             
+<tspan fill="rgb(52, 17, 70)">.</tspan>
+<tspan fill="rgb(56, 26, 70)">&#x27;</tspan>
+<tspan fill="rgb(53, 28, 70)">&#x27;</tspan>
+<tspan fill="rgb(56, 28, 70)">&#x27;</tspan>
+<tspan fill="rgb(58, 33, 70)">&#x27;</tspan>
+<tspan fill="rgb(60, 35, 70)">`</tspan>
+<tspan fill="rgb(64, 43, 70)">^</tspan>
+<tspan fill="rgb(65, 45, 70)">&quot;</tspan>
+<tspan fill="rgb(63, 45, 70)">,&quot;</tspan>
+<tspan fill="rgb(65, 43, 70)">&quot;</tspan>
+<tspan fill="rgb(60, 43, 70)">&quot;</tspan>
+<tspan fill="rgb(63, 44, 70)">&quot;</tspan>
+<tspan fill="rgb(62, 42, 70)">&quot;</tspan>
+<tspan fill="rgb(70, 35, 66)">`</tspan>
+<tspan fill="rgb(74, 81, 41)">}</tspan>
+<tspan fill="rgb(124, 133, 58)">n</tspan>
+<tspan fill="rgb(168, 179, 80)">Q</tspan>
+<tspan fill="rgb(117, 125, 35)">j</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(85, 90, 50)">1</tspan>
+<tspan fill="rgb(76, 81, 48)">}</tspan>
+<tspan fill="rgb(67, 70, 44)">-</tspan>
+<tspan fill="rgb(73, 75, 43)">]</tspan>
+<tspan fill="rgb(74, 78, 43)">[</tspan>
+<tspan fill="rgb(70, 74, 41)">]</tspan>
+<tspan fill="rgb(83, 86, 49)">{</tspan>
+<tspan fill="rgb(137, 126, 101)">n</tspan>
+<tspan fill="rgb(106, 103, 76)">\</tspan>
+<tspan fill="rgb(87, 94, 54)">)</tspan>
+<tspan fill="rgb(104, 117, 59)">t</tspan>
+<tspan fill="rgb(82, 87, 53)">{</tspan>
+               
+<tspan fill="rgb(58, 31, 70)">&#x27;</tspan>
+<tspan fill="rgb(58, 33, 70)">&#x27;</tspan>
+<tspan fill="rgb(52, 26, 70)">&#x27;</tspan>
+<tspan fill="rgb(60, 36, 70)">`</tspan>
+<tspan fill="rgb(61, 43, 70)">^</tspan>
+<tspan fill="rgb(62, 45, 70)">&quot;</tspan>
+<tspan fill="rgb(61, 48, 70)">,</tspan>
+<tspan fill="rgb(61, 49, 70)">,</tspan>
+<tspan fill="rgb(60, 47, 70)">,</tspan>
+<tspan fill="rgb(63, 46, 70)">&quot;</tspan>
+<tspan fill="rgb(65, 44, 70)">&quot;</tspan>
+<tspan fill="rgb(68, 50, 70)">;</tspan>
+<tspan fill="rgb(64, 43, 70)">:</tspan>
+<tspan fill="rgb(65, 70, 32)">_</tspan>
+<tspan fill="rgb(67, 79, 25)">[</tspan>
+<tspan fill="rgb(116, 126, 40)">j</tspan>
+<tspan fill="rgb(109, 125, 33)">j</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(111, 118, 64)">f</tspan>
+<tspan fill="rgb(130, 142, 80)">v</tspan>
+<tspan fill="rgb(119, 131, 76)">x</tspan>
+<tspan fill="rgb(92, 99, 58)">(</tspan>
+<tspan fill="rgb(82, 88, 50)">1</tspan>
+<tspan fill="rgb(92, 100, 55)">(</tspan>
+<tspan fill="rgb(88, 94, 52)">)</tspan>
+<tspan fill="rgb(128, 135, 82)">u</tspan>
+<tspan fill="rgb(102, 108, 69)">/</tspan>
+<tspan fill="rgb(96, 103, 61)">|</tspan>
+<tspan fill="rgb(130, 146, 85)">c</tspan>
+<tspan fill="rgb(70, 76, 48)">[</tspan>
+               
+<tspan fill="rgb(56, 26, 70)">&#x27;</tspan>
+<tspan fill="rgb(58, 42, 70)">^</tspan>
+<tspan fill="rgb(61, 42, 70)">^^</tspan>
+<tspan fill="rgb(62, 45, 70)">&quot;</tspan>
+<tspan fill="rgb(60, 45, 70)">&quot;</tspan>
+<tspan fill="rgb(63, 47, 70)">,,</tspan>
+<tspan fill="rgb(66, 48, 70)">:</tspan>
+<tspan fill="rgb(65, 47, 70)">,</tspan>
+<tspan fill="rgb(67, 47, 70)">,</tspan>
+<tspan fill="rgb(70, 51, 70)">;</tspan>
+<tspan fill="rgb(67, 49, 70)">I</tspan>
+<tspan fill="rgb(70, 70, 46)">+</tspan>
+<tspan fill="rgb(52, 70, 15)">_</tspan>
+<tspan fill="rgb(91, 104, 43)">|</tspan>
+<tspan fill="rgb(126, 141, 57)">u</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(71, 73, 42)">]</tspan>
+<tspan fill="rgb(68, 71, 41)">?</tspan>
+<tspan fill="rgb(76, 82, 45)">}</tspan>
+<tspan fill="rgb(97, 107, 59)">\</tspan>
+<tspan fill="rgb(95, 109, 57)">\</tspan>
+<tspan fill="rgb(113, 133, 72)">x</tspan>
+<tspan fill="rgb(111, 130, 71)">r</tspan>
+<tspan fill="rgb(117, 137, 72)">n</tspan>
+<tspan fill="rgb(130, 150, 81)">c</tspan>
+<tspan fill="rgb(126, 144, 75)">v</tspan>
+<tspan fill="rgb(155, 172, 98)">C</tspan>
+<tspan fill="rgb(67, 73, 49)">]</tspan>
+                
+<tspan fill="rgb(58, 33, 70)">&#x27;</tspan>
+<tspan fill="rgb(61, 40, 70)">^</tspan>
+<tspan fill="rgb(60, 42, 70)">^</tspan>
+<tspan fill="rgb(63, 42, 70)">^</tspan>
+<tspan fill="rgb(62, 46, 70)">&quot;</tspan>
+<tspan fill="rgb(60, 45, 70)">&quot;</tspan>
+<tspan fill="rgb(63, 44, 70)">&quot;</tspan>
+<tspan fill="rgb(66, 48, 70)">:</tspan>
+<tspan fill="rgb(66, 49, 70)">:;</tspan>
+<tspan fill="rgb(68, 53, 70)">I</tspan>
+<tspan fill="rgb(64, 48, 70)">l</tspan>
+<tspan fill="rgb(70, 62, 52)">-</tspan>
+<tspan fill="rgb(73, 88, 35)">{</tspan>
+<tspan fill="rgb(110, 125, 69)">j</tspan>
+<tspan fill="rgb(104, 116, 59)">t</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(71, 82, 47)">}</tspan>
+<tspan fill="rgb(94, 112, 61)">/</tspan>
+<tspan fill="rgb(105, 124, 69)">j</tspan>
+<tspan fill="rgb(101, 121, 64)">f</tspan>
+<tspan fill="rgb(77, 94, 45)">1</tspan>
+<tspan fill="rgb(99, 118, 60)">t</tspan>
+<tspan fill="rgb(94, 114, 58)">/</tspan>
+<tspan fill="rgb(110, 131, 64)">r</tspan>
+<tspan fill="rgb(116, 138, 69)">n</tspan>
+<tspan fill="rgb(110, 130, 64)">r</tspan>
+<tspan fill="rgb(128, 141, 80)">v</tspan>
+<tspan fill="rgb(68, 70, 49)">l</tspan>
+                
+<tspan fill="rgb(48, 16, 70)">.</tspan>
+<tspan fill="rgb(57, 28, 70)">&#x27;</tspan>
+<tspan fill="rgb(59, 38, 70)">`</tspan>
+<tspan fill="rgb(61, 43, 70)">^^</tspan>
+<tspan fill="rgb(60, 43, 70)">&quot;</tspan>
+<tspan fill="rgb(60, 46, 70)">&quot;</tspan>
+<tspan fill="rgb(60, 45, 70)">&quot;&quot;</tspan>
+<tspan fill="rgb(65, 46, 70)">,</tspan>
+<tspan fill="rgb(70, 47, 68)">:</tspan>
+<tspan fill="rgb(70, 44, 59)">:</tspan>
+<tspan fill="rgb(70, 48, 51)">;</tspan>
+<tspan fill="rgb(59, 70, 30)">-</tspan>
+<tspan fill="rgb(90, 107, 49)">\</tspan>
+<tspan fill="rgb(112, 126, 62)">r</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(94, 115, 60)">/</tspan>
+<tspan fill="rgb(93, 114, 59)">/</tspan>
+<tspan fill="rgb(80, 101, 51)">(</tspan>
+<tspan fill="rgb(85, 106, 53)">|</tspan>
+<tspan fill="rgb(91, 111, 58)">/</tspan>
+<tspan fill="rgb(105, 126, 63)">j</tspan>
+<tspan fill="rgb(91, 110, 50)">\</tspan>
+<tspan fill="rgb(97, 117, 58)">t</tspan>
+<tspan fill="rgb(86, 105, 55)">|</tspan>
+<tspan fill="rgb(75, 94, 43)">1</tspan>
+<tspan fill="rgb(72, 91, 39)">{</tspan>
+<tspan fill="rgb(58, 70, 43)">I</tspan>
+<tspan fill="rgb(46, 58, 70)">.</tspan>
+       
+<tspan fill="rgb(46, 17, 70)">.</tspan>
+<tspan fill="rgb(43, 21, 70)">.</tspan>
+<tspan fill="rgb(40, 17, 70)">.</tspan>
+<tspan fill="rgb(52, 17, 70)">.</tspan>
+<tspan fill="rgb(48, 16, 70)">..</tspan>
+<tspan fill="rgb(55, 15, 70)">.</tspan>
+<tspan fill="rgb(61, 28, 70)">&#x27;</tspan>
+<tspan fill="rgb(58, 33, 70)">&#x27;</tspan>
+<tspan fill="rgb(63, 35, 70)">`</tspan>
+<tspan fill="rgb(66, 38, 70)">``</tspan>
+<tspan fill="rgb(70, 40, 70)">``^</tspan>
+<tspan fill="rgb(70, 44, 70)">^</tspan>
+<tspan fill="rgb(70, 49, 70)">&quot;</tspan>
+<tspan fill="rgb(62, 52, 70)">;</tspan>
+<tspan fill="rgb(56, 51, 70)">l</tspan>
+<tspan fill="rgb(64, 63, 82)">-</tspan>
+<tspan fill="rgb(115, 127, 148)">n</tspan>
+<tspan fill="rgb(144, 156, 131)">Y</tspan>
+<tspan fill="rgb(146, 158, 81)">Y</tspan>
+<tspan fill="rgb(117, 133, 59)">x</tspan>
+</tspan>
+<tspan x="26" dy="13.0">
+<tspan fill="rgb(107, 130, 63)">r</tspan>
+<tspan fill="rgb(98, 122, 57)">f</tspan>
+<tspan fill="rgb(112, 132, 73)">xx</tspan>
+<tspan fill="rgb(101, 124, 65)">j</tspan>
+<tspan fill="rgb(106, 128, 70)">r</tspan>
+<tspan fill="rgb(73, 91, 49)">1</tspan>
+<tspan fill="rgb(83, 93, 56)">)</tspan>
+<tspan fill="rgb(90, 109, 63)">\</tspan>
+<tspan fill="rgb(76, 97, 54)">)</tspan>
+<tspan fill="rgb(87, 104, 51)">|</tspan>
+<tspan fill="rgb(76, 93, 68)">)</tspan>
+<tspan fill="rgb(44, 57, 70)">i</tspan>
+<tspan fill="rgb(53, 65, 70)">~</tspan>
+<tspan fill="rgb(53, 63, 70)">!</tspan>
+<tspan fill="rgb(55, 62, 70)">l</tspan>
+<tspan fill="rgb(55, 60, 70)">I</tspan>
+<tspan fill="rgb(50, 57, 70)">;</tspan>
+<tspan fill="rgb(41, 51, 70)">&quot;</tspan>
+<tspan fill="rgb(48, 53, 70)">&quot;</tspan>
+<tspan fill="rgb(47, 52, 70)">&quot;</tspan>
+<tspan fill="rgb(46, 49, 70)">&quot;</tspan>
+<tspan fill="rgb(49, 49, 70)">^</tspan>
+<tspan fill="rgb(54, 47, 70)">^</tspan>
+<tspan fill="rgb(54, 44, 70)">`</tspan>
+<tspan fill="rgb(57, 44, 70)">^</tspan>
+<tspan fill="rgb(58, 43, 70)">^</tspan>
+<tspan fill="rgb(56, 40, 70)">`</tspan>
+<tspan fill="rgb(62, 46, 70)">&quot;</tspan>
+<tspan fill="rgb(50, 50, 70)">;</tspan>
+<tspan fill="rgb(47, 47, 70)">:</tspan>
+<tspan fill="rgb(47, 49, 70)">I</tspan>
+<tspan fill="rgb(47, 54, 71)">+</tspan>
+<tspan fill="rgb(62, 70, 90)">]</tspan>
+<tspan fill="rgb(68, 77, 105)">}</tspan>
+<tspan fill="rgb(76, 91, 122)">)</tspan>
+<tspan fill="rgb(97, 120, 155)">j</tspan>
+<tspan fill="rgb(133, 164, 207)">C</tspan>
+<tspan fill="rgb(147, 179, 231)">O</tspan>
+<tspan fill="rgb(162, 198, 250)">q</tspan>
+<tspan fill="rgb(192, 233, 255)">#</tspan>
+<tspan fill="rgb(158, 187, 202)">Z</tspan>
+<tspan fill="rgb(74, 78, 31)">[</tspan>
+<tspan fill="rgb(57, 70, 23)">~</tspan>
+</tspan>
+</text>
+<text x="396.0" y="96" font-size="15" font-weight="700"><tspan fill="#5be39a">peter</tspan><tspan fill="#e0843c">㉿</tspan><tspan fill="#5be39a">PeterGabaldon</tspan></text>
+<text x="396.0" y="111.75" font-size="14" fill="#5d6a61">──────────────────────────────────────</text>
+<text x="396.0" y="134.25" font-size="14"><tspan fill="#5be39a" font-weight="600">OS</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="134.25" font-size="14" fill="#d9e0d9">Kali Linux · Windows · RHEL</text>
+<text x="396.0" y="156.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Host</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="156.75" font-size="14" fill="#d9e0d9">ITRESIT — Murcia, Spain</text>
+<text x="396.0" y="179.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Role</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="179.25" font-size="14" fill="#d9e0d9">Cybersecurity Coordinator (ex-Engineer)</text>
+<text x="396.0" y="201.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Kernel</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="201.75" font-size="14" fill="#d9e0d9">Offensive Security · Vulnerability Research</text>
+<text x="396.0" y="224.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Uptime</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="224.25" font-size="14" fill="#d9e0d9">5 yrs professional · 10+ self-taught</text>
+<text x="396.0" y="246.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Education</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="246.75" font-size="14" fill="#d9e0d9">BSc Computer Engineering — Univ. of Murcia</text>
+<text x="396.0" y="269.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Shell</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="269.25" font-size="14" fill="#d9e0d9">zsh · pwsh</text>
+<text x="396.0" y="314.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Code</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="314.25" font-size="14" fill="#d9e0d9">C · C++ · C# · Java · Python · PHP · Bash · SQL</text>
+<text x="396.0" y="336.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Reversing</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="336.75" font-size="14" fill="#d9e0d9">IDA Pro · Ghidra · WinDbg · gdb · OllyDbg</text>
+<text x="396.0" y="359.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Offense</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="359.25" font-size="14" fill="#d9e0d9">Burp Suite · Impacket · Malware &amp; Exploit Dev</text>
+<text x="396.0" y="381.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Defense</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="381.75" font-size="14" fill="#d9e0d9">CrowdStrike · Azure Sentinel · Defender · M365</text>
+<text x="396.0" y="404.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Network</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="404.25" font-size="14" fill="#d9e0d9">Fortinet · FortiGate hardening · Secure design</text>
+<text x="396.0" y="426.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Certs</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="426.75" font-size="14" fill="#d9e0d9">OSED · OSEP · OSCP · CrowdStrike CFA · NSE 1-3</text>
+<text x="396.0" y="471.75" font-size="14"><tspan fill="#5be39a" font-weight="600">CVEs</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="471.75" font-size="14" fill="#d9e0d9">16 published · ZDI · Exploit-DB · Impacket</text>
+<text x="396.0" y="494.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Web</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="494.25" font-size="14" fill="#e0843c">https://pgj11.com</text>
+<text x="396.0" y="516.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Labs</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="516.75" font-size="14" fill="#e0843c">https://labs.itresit.es</text>
+<text x="396.0" y="539.25" font-size="14"><tspan fill="#5be39a" font-weight="600">LinkedIn</tspan><tspan fill="#5d6a61">:</tspan></text>
+<text x="492.0" y="539.25" font-size="14" fill="#d9e0d9">in/pedro-gabaldon-julia</text>
+<rect x="396.0" y="570.75" width="19" height="12" rx="2" fill="#ff5f57"/>
+<rect x="418.0" y="570.75" width="19" height="12" rx="2" fill="#e0843c"/>
+<rect x="440.0" y="570.75" width="19" height="12" rx="2" fill="#febc2e"/>
+<rect x="462.0" y="570.75" width="19" height="12" rx="2" fill="#5be39a"/>
+<rect x="484.0" y="570.75" width="19" height="12" rx="2" fill="#3aa0ff"/>
+<rect x="506.0" y="570.75" width="19" height="12" rx="2" fill="#b06bff"/>
+<rect x="528.0" y="570.75" width="19" height="12" rx="2" fill="#3ad6c8"/>
+<rect x="550.0" y="570.75" width="19" height="12" rx="2" fill="#d9e0d9"/>
+</svg>
