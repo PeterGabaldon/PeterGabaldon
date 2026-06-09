@@ -5,7 +5,7 @@
 <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
 <circle cx="44" cy="20" r="6" fill="#febc2e"/>
 <circle cx="64" cy="20" r="6" fill="#28c840"/>
-<text x="506.0" y="24.5" fill="#5d6a61" font-size="12.5" text-anchor="middle">zsh — ssh peter@PeterGabaldon</text>
+<text x="506.0" y="24.5" fill="#5d6a61" font-size="12.5" text-anchor="middle">zsh · ssh peter@PeterGabaldon</text>
 <g font-size="12.5" text-anchor="middle">
 <text x="29.8" y="70.0" fill="rgb(168, 169, 154)">Q</text>
 <text x="37.2" y="70.0" fill="rgb(151, 165, 164)">C</text>
@@ -1422,7 +1422,7 @@
 <text x="412.0" y="96" font-size="15" font-weight="700"><tspan fill="#5be39a">peter</tspan><tspan fill="#e0843c">㉿</tspan><tspan fill="#5be39a">PeterGabaldon</tspan></text>
 <text x="412.0" y="111.75" font-size="14" fill="#5d6a61">──────────────────────────────────────</text>
 <text x="412.0" y="134.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Host</tspan><tspan fill="#5d6a61">:</tspan></text>
-<text x="552.0" y="134.25" font-size="14" fill="#d9e0d9">ITRESIT — Murcia, Spain</text>
+<text x="552.0" y="134.25" font-size="14" fill="#d9e0d9">ITRESIT · Murcia, Spain</text>
 <text x="412.0" y="156.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Role</tspan><tspan fill="#5d6a61">:</tspan></text>
 <text x="552.0" y="156.75" font-size="14" fill="#d9e0d9">Cybersecurity Coordinator &amp; Engineer</text>
 <text x="412.0" y="179.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Kernel</tspan><tspan fill="#5d6a61">:</tspan></text>
@@ -1430,7 +1430,7 @@
 <text x="412.0" y="201.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Uptime</tspan><tspan fill="#5d6a61">:</tspan></text>
 <text x="552.0" y="201.75" font-size="14" fill="#d9e0d9">5 yrs professional · 10+ self-taught</text>
 <text x="412.0" y="224.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Education</tspan><tspan fill="#5d6a61">:</tspan></text>
-<text x="552.0" y="224.25" font-size="14" fill="#d9e0d9">BSc Computer Engineering — Univ. of Murcia</text>
+<text x="552.0" y="224.25" font-size="14" fill="#d9e0d9">BSc Computer Engineering · Univ. of Murcia</text>
 <text x="412.0" y="269.25" font-size="14"><tspan fill="#5be39a" font-weight="600">Code</tspan><tspan fill="#5d6a61">:</tspan></text>
 <text x="552.0" y="269.25" font-size="14" fill="#d9e0d9">C · C++ · C# · Java · Python · PHP · Bash · SQL</text>
 <text x="412.0" y="291.75" font-size="14"><tspan fill="#5be39a" font-weight="600">Reversing</tspan><tspan fill="#5d6a61">:</tspan></text>

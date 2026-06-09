@@ -79,11 +79,11 @@ def save_preview(grid):
 # ---- info panel content ---------------------------------------------------
 HEADER = ("peter", "㉿", "PeterGabaldon")
 INFO = [
-    ("Host",      "ITRESIT — Murcia, Spain"),
+    ("Host",      "ITRESIT · Murcia, Spain"),
     ("Role",      "Cybersecurity Coordinator & Engineer"),
     ("Kernel",    "Offensive Security · Vulnerability Research"),
     ("Uptime",    "5 yrs professional · 10+ self-taught"),
-    ("Education", "BSc Computer Engineering — Univ. of Murcia"),
+    ("Education", "BSc Computer Engineering · Univ. of Murcia"),
     None,
     ("Code",      "C · C++ · C# · Java · Python · PHP · Bash · SQL"),
     ("Reversing", "IDA Pro · Ghidra · WinDbg · gdb · OllyDbg"),
@@ -131,7 +131,7 @@ def build_svg(grid):
     for i, c in enumerate((RED, YELLOW, GRN)):
         out.append(f'<circle cx="{24+i*20}" cy="20" r="6" fill="{c}"/>')
     out.append(f'<text x="{width/2}" y="24.5" fill="{FAINT}" font-size="12.5" text-anchor="middle">'
-               f'zsh — ssh peter@PeterGabaldon</text>')
+               f'zsh · ssh peter@PeterGabaldon</text>')
 
     # ascii art — each glyph is pinned to an explicit (x, y) on a fixed grid,
     # so column alignment never depends on the renderer's font advance width.
