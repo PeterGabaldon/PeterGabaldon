@@ -12,7 +12,7 @@
 
 <br/>
 
-### `Offensive Security · Vulnerability Research · Malware Development`
+### `Offensive Security · Vulnerability Research · Malware Research`
 
 [![Blog](https://img.shields.io/badge/Blog-pgj11.com-5be39a?style=flat-square&logo=hackthebox&logoColor=06140c&labelColor=11161a)](https://pgj11.com)
 [![Labs @ ITRESIT](https://img.shields.io/badge/Labs_@_ITRESIT-ITRESIT_Labs-e0843c?style=flat-square&logo=ghost&logoColor=white&labelColor=11161a)](https://labs.itresit.es)
